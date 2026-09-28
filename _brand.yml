@@ -2,6 +2,7 @@
 # À affiner plus tard (la page d'accueil, qui est l'affiche, garde sa propre feuille print.css).
 meta:
   name: Le format texte
+  author: Julien Rabaud
 
 color:
   palette:
@@ -10,19 +11,23 @@ color:
     muted: "#5e5c64"
     blue: "#1a5fb4"
     red: "#c01c28"
-  background: cream
+  background: linen
   foreground: ink
-  primary: blue
+  primary: saddlebrown
   secondary: muted
   danger: red
 
 typography:
   fonts:
-    - family: Courier New
-      source: system
+    - family: Amaranth
+      source: bunny
+    - family: Arsenal
+      source: bunny
+    - family: B612 Mono
+      source: bunny
   base:
-    family: Courier New
+    family: Arsenal
   headings:
-    family: Courier New
+    family: Amaranth
   monospace:
-    family: Courier New
+    family: B612 Mono

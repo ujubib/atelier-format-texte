@@ -1,87 +1,40 @@
 ---
-pagetitle: "Le format texte : libérez vos documents !"
-lang: fr
-sidebar: false
-format:
-  html:
-    minimal: true
-    css: print.css
-    toc: false
+title: "Le format texte : libérez vos documents !"
+subtitle: "Ateliers d'écriture numérique pour la recherche (UPPA)"
+toc: false
 ---
 
-::: {.head-tag}
-&lt;head&gt;
+Un cycle de six ateliers consacrés à l'écriture académique au format texte, pour le Master, le Doctorat ou la Recherche. C'est une **initiative libre, sans inscription** : il suffit de venir, avec son ordinateur portable.
+
+::: {.callout-note appearance="minimal"}
+**Quand :** les lundis de 18h00 à 19h45, du 12 octobre au 23 novembre 2026 (pause le 26 octobre)  
+**Où :** La BUlle (BU), campus de Pau (UPPA)  
+**Contact :** [julien.rabaud@univ-pau.fr](mailto:julien.rabaud@univ-pau.fr)
 :::
 
-::: {.header}
-[ATELIER D'ÉCRITURE NUMÉRIQUE POUR LA RECHERCHE]{.subtitle}
+Le programme se trouve sur [l'affiche](affiche.qmd) (écrite en markdown , exportée en html avec une feuille css spécifique pour l'impression), que vous pouvez télécharger et diffuser.
 
-# LE FORMAT TEXTE\ :<br>[LIBÉREZ VOS DOCUMENTS !]{.highlight}
-:::
+## Pourquoi passer au format texte ?
 
-::: {.meta-info}
-Pour le Master, le Doctorat ou la Recherche.
-:::
+- **Libre et pérenne :** des formats ouverts et des logiciels libres, lisibles dans vingt ans.
+- **Interopérable :** un même texte circule entre outils, collègues et éditeurs, et donne PDF, article, diapos ou site web.
+- **Reproductible :** du texte brut, des références automatiques, l'historique de toutes vos versions.
+- **Frugal et rapide :** des fichiers légers, des outils qui tournent sur n'importe quelle plateforme.
 
-:::: {.main-box}
-::: {.box-title}
-# Pourquoi passer au format texte ?
-:::
+[C'est le format naturel de la *Science Ouverte* !!!]{style="font-size:1.2em;color:green"}
 
-- **Libre et pérenne\ :** des formats ouverts et des logiciels libres, lisibles dans vingt ans.
-- **Interopérable\ :** un même texte circule entre outils, collègues et éditeurs, et donne PDF, article, diapos ou site web.
-- **Reproductible\ :** du texte brut, des références automatiques, l'historique de toutes vos versions.
-- **Frugal et rapide\ :** des fichiers légers, des outils qui tournent sur n'importe quelle plateforme.
-::::
+## Les séances
 
-::: {.section-title}
-L'Écosystème des ateliers
-:::
+| Date | Séance |
+|:-----|:-------|
+| 12 oct. | [1. Principes et syntaxe Markdown](seances/01-markdown-zettlr.qmd) (avec Zettlr) |
+| 19 oct. | [2. Connecter la biblio](seances/02-zotero.qmd) (avec Zotero) |
+| 26 oct. | *Pause, vacances universitaires* |
+| 2 nov. | [3. Couteau suisse et Tout-en-Un](seances/03-pandoc-quarto.qmd) (Pandoc et Quarto) |
+| 9 nov. | [4. Édition sémantique en SHS](seances/04-stylo.qmd) (Stylo) |
+| 16 nov. | [5. Moteurs typographiques](seances/05-latex-typst.qmd) (LaTeX et Typst) |
+| 23 nov. | [6. Publications multi-formats](seances/06-html-css-print.qmd) (HTML et CSS Print) |
 
-:::: {.grid}
-::: {.grid-item}
-[Écrire]{.verbe} Markdown, **Zettlr** et *Zettelkasten* + **Zotero** pour connecter sa bibliographie.
-:::
+## Un club des utilisateurs du format texte
 
-::: {.grid-item}
-[Convertir]{.verbe} **Pandoc** et **Quarto** : un même texte, tous les formats (docx, html, pdf...).
-:::
-
-::: {.grid-item}
-[Éditer]{.verbe} **Stylo** : édition sémantique et collaborative en SHS.
-:::
-
-::: {.grid-item}
-[Publier]{.verbe} Moteurs typographiques (`\LaTeX`{=latex}`LaTeX`{=html}, **Typst**) et multi-formats (HTML, CSS Print).
-:::
-::::
-
-::: {.highlight2}
-# Gardez le contrôle sur vos écrits
-:::
-
-::: {.programme}
-## CALENDRIER DES ATELIERS | les Lundis de 18h00 à 19h45\ :
-
-- [12 oct.]{.date} [|]{.pipe} [1. Principes et syntaxe Markdown](seances/01-markdown-zettlr.qmd) (avec **Zettlr**)
-- [19 oct.]{.date} [|]{.pipe} [2. Connecter la biblio](seances/02-zotero.qmd) (avec **Zotero**)
-
-- [26 oct.]{.date .pause} [|]{.pipe} [\[Pause - Vacances Universitaires\]]{.pause-text}
-
-- [02 nov.]{.date} [|]{.pipe} [3. Couteau suisse et Tout-en-Un](seances/03-pandoc-quarto.qmd) (**Pandoc** et **Quarto**)
-- [09 nov.]{.date} [|]{.pipe} [4. Édition sémantique en SHS](seances/04-stylo.qmd) (**Stylo**)
-- [16 nov.]{.date} [|]{.pipe} [5. Moteurs typographiques](seances/05-latex-typst.qmd) (`\LaTeX`{=latex}**`LaTeX`{=html}** et **Typst**)
-- [23 nov.]{.date} [|]{.pipe} [6. Publications Multi-Formats](seances/06-html-css-print.qmd) (**HTML** et **CSS Print**)
-:::
-
-::: {.footer}
-**Lieu\ :** La BUlle (BU) - Campus de Pau (UPPA)
-
-Apportez votre ordinateur portable • Entrée libre
-
-Informations\ : [<julien.rabaud@univ-pau.fr>]{.email}
-:::
-
-::: {.foot-tag}
-&lt;/body&gt;
-:::
+L'idée est aussi de faire naître, au fil des séances, un club des utilisatrices et utilisateurs du format texte à l'université. Les échanges de pratiques sont encouragés : voir la page [Le club](club.qmd).

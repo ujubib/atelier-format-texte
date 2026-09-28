@@ -1,0 +1,45 @@
+---
+title: "Ressources"
+subtitle: "Tutoriels, exemples et références pour écrire au format texte"
+---
+
+Cette page rassemble ce qui peut servir avant, pendant et après les séances. Elle s'enrichit au fil des ateliers et des échanges du [club](club.qmd) : n'hésitez pas à proposer des ajouts.
+
+## Tutoriels
+
+### Par outil
+
+- **Markdown et Zettlr** : [documentation de Zettlr](https://docs.zettlr.com)
+- **Zotero** : [documentation de Zotero](https://www.zotero.org/support/)
+- **Pandoc** : [manuel de Pandoc](https://pandoc.org/MANUAL.html)
+- **Quarto** : [guide de Quarto](https://quarto.org/docs/guide/)
+- **Stylo** : *à compléter (documentation de Stylo)*
+- **LaTeX et Typst** : [documentation de Typst](https://typst.app/docs) ; *à compléter (LaTeX)*
+- **HTML et CSS Print** : *à compléter*
+
+### Fiches et pas-à-pas
+
+- *À compléter : fiches rédigées pour les séances (installation, premiers pas, dépannage).*
+
+## Exemples
+
+Des documents réels pour voir à quoi ressemble un texte source et ce qu'il produit.
+
+| Exemple | Source | Rendu |
+|:--------|:-------|:------|
+| L'affiche des ateliers (Markdown + CSS Print) | [affiche.qmd](https://github.com/TON-PSEUDO/atelier-format-texte/blob/main/affiche.qmd) | [Affiche](affiche.qmd) |
+| *À compléter : article, mémoire, diaporama…* | | |
+
+Le [dépôt de ce site](https://github.com/TON-PSEUDO/atelier-format-texte) est lui-même un exemple de projet Quarto complet.
+
+## Modèles et gabarits
+
+- *À compléter : modèles de mémoire ou de thèse, feuilles de style CSL, gabarits Pandoc ou Typst.*
+
+## Pour aller plus loin
+
+- *À compléter : articles, billets de blog, retours d'expérience.*
+
+## Proposer une ressource
+
+Une ressource à partager ? Écrivez à [julien.rabaud@univ-pau.fr](mailto:julien.rabaud@univ-pau.fr) ou ouvrez une proposition sur le dépôt.

@@ -3,7 +3,9 @@ project:
   output-dir: _site
   render:
     - index.qmd
+    - affiche.qmd
     - club.qmd
+    - ressources.qmd 
     - seances/*.qmd
   post-render:
     - python3 scripts/affiche-sans-bootstrap.py
@@ -11,15 +13,51 @@ project:
 lang: fr
 
 website:
-  title: "Le format texte : libérez vos documents !"
-  description: "Cycle d'ateliers d'écriture académique au format texte (BU de Pau, UPPA)."
+  title: "Ateliers d'écriture numérique"
+  description: "Cycle d'ateliers d'écriture académique au format texte (UPPA)."
+  site-url: "https://ujubib.github.io/atelier-format-texte/"
+  repo-url: "https://github.com/ujubib/atelier-format-texte"
+  repo-branch: main
+  repo-actions: [source]
   page-navigation: true
   bread-crumbs: false
+
+  navbar:
+    search: true
+    left:
+      - text: "Accueil"
+        href: index.qmd
+      - text: "Affiche"
+        href: affiche.qmd
+      - text: "Séances"
+        menu:
+          - text: "1. Markdown et Zettlr"
+            href: seances/01-markdown-zettlr.qmd
+          - text: "2. Zotero"
+            href: seances/02-zotero.qmd
+          - text: "3. Pandoc et Quarto"
+            href: seances/03-pandoc-quarto.qmd
+          - text: "4. Stylo"
+            href: seances/04-stylo.qmd
+          - text: "5. LaTeX et Typst"
+            href: seances/05-latex-typst.qmd
+          - text: "6. HTML et CSS Print"
+            href: seances/06-html-css-print.qmd
+      - text: "Club"
+        href: club.qmd
+      - text: "Ressources"
+        href: ressources.qmd
+    right:
+      - icon: github
+        href: "https://github.com/ujubib/atelier-format-texte"
+        aria-label: "Dépôt GitHub"
+
   sidebar:
     style: docked
     search: false
+    background: wheat
     contents:
-      - text: "← L'affiche"
+      - text: "Accueil"
         href: index.qmd
       - section: "Les séances"
         contents:
@@ -31,6 +69,13 @@ website:
           - seances/06-html-css-print.qmd
       - text: "Le club"
         href: club.qmd
+      - section: "Annexes"    
+        contents:
+          - ressources.qmd
+
+  page-footer:
+    background: wheat
+    border: false
 
 format:
   html:
@@ -38,3 +83,5 @@ format:
     toc-title: "Sur cette page"
     date-format: "dddd D MMMM YYYY"
     code-copy: true
+    lang: fr
+    css: styles.css

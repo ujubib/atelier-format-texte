@@ -1,0 +1,66 @@
+/* ==========================================================================
+   Personnalisations du site (en plus de _brand.yaml)
+   ========================================================================== */
+
+/* Typographie et titres : pages du site uniquement (pas l'affiche) */
+#quarto-content {
+    hyphens: auto;
+    overflow-wrap: break-word;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+}
+
+#quarto-content h1,
+#quarto-content h2 {
+    color: indigo;
+}
+
+#quarto-content .subtitle {
+    color: indigo;
+    font-style: italic;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.navbar-title {
+    font-family: Amaranth, sans-serif;
+}
+
+.sidebar-menu-container {
+    font-family: Arsenal, sans-serif !important;
+}
+
+/* 1. On applique le gras à TOUT le monde dans la barre latérale par sécurité */
+.sidebar-menu-container .menu-text {
+    font-weight: bold !important;
+}
+
+/* 2. LA CONTRE-ATTAQUE : On cible TOUTES les listes imbriquées (les sous-menus) 
+      pour forcer leurs textes à redevenir normaux */
+.sidebar-menu-container ul ul .menu-text {
+    font-weight: normal !important;
+}
+
+/* 3. COHÉRENCE VISUELLE : L'élément actif (la page en cours de lecture) 
+      a le droit de rester en gras */
+.sidebar-item-text.sidebar-link.active .menu-text {
+    font-weight: bold !important;
+}
+
+/* Barre de navigation : titre du site en jaune clair */
+.navbar .navbar-brand {
+    --bs-navbar-brand-color: lightyellow;
+    --bs-navbar-brand-hover-color: lightyellow;
+    --bs-navbar-brand-active-color: lightyellow;
+}
+
+/* Espace entre le titre et le menu (Accueil, Affiche…).
+   Quarto force margin-right à 0 sur le conteneur du titre : on passe par le padding.
+   Uniquement en affichage large ; en mode mobile le titre reste centré. */
+@media (min-width: 992px) {
+    .navbar .navbar-brand-container {
+        padding-right: 3rem;
+    }
+}
