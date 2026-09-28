@@ -2,29 +2,27 @@
    Personnalisations du site (en plus de _brand.yaml)
    ========================================================================== */
 
-body {
+/* Typographie et titres : pages du site uniquement (pas l'affiche) */
+#quarto-content {
     hyphens: auto;
     overflow-wrap: break-word;
     text-rendering: optimizeLegibility;
     font-kerning: normal;
 }
 
-figcaption{
-    text-align: center;
-}
-
-h1 {
-    color:indigo;
-}
-
-h2 {
+#quarto-content h1,
+#quarto-content h2 {
     color: indigo;
 }
 
-.subtitle {
+#quarto-content .subtitle {
     color: indigo;
     font-style: italic;
-}   
+}
+
+figcaption {
+    text-align: center;
+}
 
 .navbar-title {
     font-family: Amaranth, sans-serif;
