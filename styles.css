@@ -1,0 +1,19 @@
+/* ==========================================================================
+   Personnalisations du site (en plus de _brand.yaml)
+   ========================================================================== */
+
+/* Barre de navigation : titre du site en jaune clair */
+.navbar .navbar-brand {
+    --bs-navbar-brand-color: lightyellow;
+    --bs-navbar-brand-hover-color: lightyellow;
+    --bs-navbar-brand-active-color: lightyellow;
+}
+
+/* Espace entre le titre et le menu (Accueil, Affiche…).
+   Quarto force margin-right à 0 sur le conteneur du titre : on passe par le padding.
+   Uniquement en affichage large ; en mode mobile le titre reste centré. */
+@media (min-width: 992px) {
+    .navbar .navbar-brand-container {
+        padding-right: 2.5rem;
+    }
+}
