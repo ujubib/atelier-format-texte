@@ -253,7 +253,7 @@
     "href": "index.html",
     "title": "Le format texte : libérez vos documents !",
     "section": "",
-    "text": "Un cycle de six ateliers consacrés à l’écriture académique au format texte, pour le Master, le Doctorat ou la Recherche. C’est une initiative libre, sans inscription : il suffit de venir, avec son ordinateur portable.\nQuand : les lundis de 18h00 à 19h45, du 12 octobre au 23 novembre 2026 (pause le 26 octobre)\nOù : La BUlle (BU), campus de Pau (UPPA)\nContact : julien.rabaud@univ-pau.fr\nLe programme se trouve sur l’affiche, que vous pouvez télécharger et diffuser.",
+    "text": "Un cycle de six ateliers consacrés à l’écriture académique au format texte, pour le Master, le Doctorat ou la Recherche. C’est une initiative libre, sans inscription : il suffit de venir, avec son ordinateur portable.\nLe programme se trouve sur l’affiche (écrite en markdown , exportée en html avec une feuille css spécifique pour l’impression), que vous pouvez télécharger et diffuser.",
     "crumbs": [
       "Accueil"
     ]
