@@ -6,6 +6,7 @@
     "section": "",
     "text": "18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "6. Publications multi-formats"
     ]
@@ -17,6 +18,7 @@
     "section": "Objectifs",
     "text": "Objectifs\n\nÀ compléter.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "6. Publications multi-formats"
     ]
@@ -28,6 +30,7 @@
     "section": "À installer avant la séance",
     "text": "À installer avant la séance\n\nUn navigateur web récent (Firefox ou Chrome)",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "6. Publications multi-formats"
     ]
@@ -39,6 +42,7 @@
     "section": "Déroulé",
     "text": "Déroulé\n\nÀ compléter.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "6. Publications multi-formats"
     ]
@@ -50,6 +54,7 @@
     "section": "Ressources",
     "text": "Ressources\n\nÀ compléter : documentation, exemples, fichiers de démonstration.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "6. Publications multi-formats"
     ]
@@ -61,6 +66,7 @@
     "section": "Notes et retours de la séance",
     "text": "Notes et retours de la séance\nÀ compléter après l’atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "6. Publications multi-formats"
     ]
@@ -72,6 +78,7 @@
     "section": "",
     "text": "18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "4. Édition sémantique en SHS"
     ]
@@ -83,6 +90,7 @@
     "section": "Objectifs",
     "text": "Objectifs\n\nÀ compléter.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "4. Édition sémantique en SHS"
     ]
@@ -94,6 +102,7 @@
     "section": "À installer avant la séance",
     "text": "À installer avant la séance\n\nStylo",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "4. Édition sémantique en SHS"
     ]
@@ -105,6 +114,7 @@
     "section": "Déroulé",
     "text": "Déroulé\n\nÀ compléter.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "4. Édition sémantique en SHS"
     ]
@@ -116,6 +126,7 @@
     "section": "Ressources",
     "text": "Ressources\n\nÀ compléter : documentation, exemples, fichiers de démonstration.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "4. Édition sémantique en SHS"
     ]
@@ -127,6 +138,7 @@
     "section": "Notes et retours de la séance",
     "text": "Notes et retours de la séance\nÀ compléter après l’atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "4. Édition sémantique en SHS"
     ]
@@ -138,6 +150,7 @@
     "section": "",
     "text": "18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "2. Connecter la biblio"
     ]
@@ -149,6 +162,7 @@
     "section": "Objectifs",
     "text": "Objectifs\n\nÀ compléter.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "2. Connecter la biblio"
     ]
@@ -160,6 +174,7 @@
     "section": "À installer avant la séance",
     "text": "À installer avant la séance\n\nZotero\nZettlr",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "2. Connecter la biblio"
     ]
@@ -171,6 +186,7 @@
     "section": "Déroulé",
     "text": "Déroulé\n\nÀ compléter.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "2. Connecter la biblio"
     ]
@@ -182,6 +198,7 @@
     "section": "Ressources",
     "text": "Ressources\n\nÀ compléter : documentation, exemples, fichiers de démonstration.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "2. Connecter la biblio"
     ]
@@ -193,6 +210,7 @@
     "section": "Notes et retours de la séance",
     "text": "Notes et retours de la séance\nÀ compléter après l’atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "2. Connecter la biblio"
     ]
@@ -204,6 +222,7 @@
     "section": "",
     "text": "Ces ateliers sont une initiative libre, sans inscription. L’idée est de faire naître, au fil des séances, un club des utilisatrices et utilisateurs du format texte à l’université.",
     "crumbs": [
+      "Accueil",
       "Le club"
     ]
   },
@@ -214,6 +233,7 @@
     "section": "Échanger nos pratiques",
     "text": "Échanger nos pratiques\nVous écrivez déjà en Markdown, avec Quarto, Stylo, LaTeX ou Typst ? Vos retours d’expérience sont les bienvenus : chaîne d’écriture, modèles de documents, astuces bibliographiques, difficultés rencontrées.\nDes séances d’échange pourront être organisées après les six premières séances, ou au second semestre.",
     "crumbs": [
+      "Accueil",
       "Le club"
     ]
   },
@@ -224,7 +244,48 @@
     "section": "Proposer une séance ou une pratique",
     "text": "Proposer une séance ou une pratique\nÀ compléter : comment proposer un sujet (par courriel, via un dépôt partagé…).\nContact : julien.rabaud@univ-pau.fr",
     "crumbs": [
+      "Accueil",
       "Le club"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Le format texte : libérez vos documents !",
+    "section": "",
+    "text": "Un cycle de six ateliers consacrés à l’écriture académique au format texte, pour le Master, le Doctorat ou la Recherche. C’est une initiative libre, sans inscription : il suffit de venir, avec son ordinateur portable.\nQuand : les lundis de 18h00 à 19h45, du 12 octobre au 23 novembre 2026 (pause le 26 octobre)\nOù : La BUlle (BU), campus de Pau (UPPA)\nContact : julien.rabaud@univ-pau.fr\nLe programme se trouve sur l’affiche, que vous pouvez télécharger et diffuser.",
+    "crumbs": [
+      "Accueil"
+    ]
+  },
+  {
+    "objectID": "index.html#pourquoi-passer-au-format-texte",
+    "href": "index.html#pourquoi-passer-au-format-texte",
+    "title": "Le format texte : libérez vos documents !",
+    "section": "Pourquoi passer au format texte ?",
+    "text": "Pourquoi passer au format texte ?\n\nLibre et pérenne : des formats ouverts et des logiciels libres, lisibles dans vingt ans.\nInteropérable : un même texte circule entre outils, collègues et éditeurs, et donne PDF, article, diapos ou site web.\nReproductible : du texte brut, des références automatiques, l’historique de toutes vos versions.\nFrugal et rapide : des fichiers légers, des outils qui tournent sur n’importe quelle plateforme.",
+    "crumbs": [
+      "Accueil"
+    ]
+  },
+  {
+    "objectID": "index.html#les-séances",
+    "href": "index.html#les-séances",
+    "title": "Le format texte : libérez vos documents !",
+    "section": "Les séances",
+    "text": "Les séances\n\n\n\nDate\nSéance\n\n\n\n\n12 oct.\n1. Principes et syntaxe Markdown (avec Zettlr)\n\n\n19 oct.\n2. Connecter la biblio (avec Zotero)\n\n\n26 oct.\nPause, vacances universitaires\n\n\n2 nov.\n3. Couteau suisse et Tout-en-Un (Pandoc et Quarto)\n\n\n9 nov.\n4. Édition sémantique en SHS (Stylo)\n\n\n16 nov.\n5. Moteurs typographiques (LaTeX et Typst)\n\n\n23 nov.\n6. Publications multi-formats (HTML et CSS Print)",
+    "crumbs": [
+      "Accueil"
+    ]
+  },
+  {
+    "objectID": "index.html#un-club-des-utilisateurs-du-format-texte",
+    "href": "index.html#un-club-des-utilisateurs-du-format-texte",
+    "title": "Le format texte : libérez vos documents !",
+    "section": "Un club des utilisateurs du format texte",
+    "text": "Un club des utilisateurs du format texte\nL’idée est aussi de faire naître, au fil des séances, un club des utilisatrices et utilisateurs du format texte à l’université. Les échanges de pratiques sont encouragés : voir la page Le club.",
+    "crumbs": [
+      "Accueil"
     ]
   },
   {
@@ -234,6 +295,7 @@
     "section": "",
     "text": "18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "1. Principes et syntaxe Markdown"
     ]
@@ -245,6 +307,7 @@
     "section": "Objectifs",
     "text": "Objectifs\n\nÀ compléter.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "1. Principes et syntaxe Markdown"
     ]
@@ -256,6 +319,7 @@
     "section": "À installer avant la séance",
     "text": "À installer avant la séance\n\nZettlr",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "1. Principes et syntaxe Markdown"
     ]
@@ -267,6 +331,7 @@
     "section": "Déroulé",
     "text": "Déroulé\n\nÀ compléter.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "1. Principes et syntaxe Markdown"
     ]
@@ -278,6 +343,7 @@
     "section": "Ressources",
     "text": "Ressources\n\nÀ compléter : documentation, exemples, fichiers de démonstration.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "1. Principes et syntaxe Markdown"
     ]
@@ -289,6 +355,7 @@
     "section": "Notes et retours de la séance",
     "text": "Notes et retours de la séance\nÀ compléter après l’atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "1. Principes et syntaxe Markdown"
     ]
@@ -300,6 +367,7 @@
     "section": "",
     "text": "18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "3. Couteau suisse et Tout-en-Un"
     ]
@@ -311,6 +379,7 @@
     "section": "Objectifs",
     "text": "Objectifs\n\nÀ compléter.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "3. Couteau suisse et Tout-en-Un"
     ]
@@ -322,6 +391,7 @@
     "section": "À installer avant la séance",
     "text": "À installer avant la séance\n\nPandoc\nQuarto",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "3. Couteau suisse et Tout-en-Un"
     ]
@@ -333,6 +403,7 @@
     "section": "Déroulé",
     "text": "Déroulé\n\nÀ compléter.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "3. Couteau suisse et Tout-en-Un"
     ]
@@ -344,6 +415,7 @@
     "section": "Ressources",
     "text": "Ressources\n\nÀ compléter : documentation, exemples, fichiers de démonstration.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "3. Couteau suisse et Tout-en-Un"
     ]
@@ -355,6 +427,7 @@
     "section": "Notes et retours de la séance",
     "text": "Notes et retours de la séance\nÀ compléter après l’atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "3. Couteau suisse et Tout-en-Un"
     ]
@@ -366,6 +439,7 @@
     "section": "",
     "text": "18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "5. Moteurs typographiques"
     ]
@@ -377,6 +451,7 @@
     "section": "Objectifs",
     "text": "Objectifs\n\nÀ compléter.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "5. Moteurs typographiques"
     ]
@@ -388,6 +463,7 @@
     "section": "À installer avant la séance",
     "text": "À installer avant la séance\n\nLaTeX\nTypst",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "5. Moteurs typographiques"
     ]
@@ -399,6 +475,7 @@
     "section": "Déroulé",
     "text": "Déroulé\n\nÀ compléter.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "5. Moteurs typographiques"
     ]
@@ -410,6 +487,7 @@
     "section": "Ressources",
     "text": "Ressources\n\nÀ compléter : documentation, exemples, fichiers de démonstration.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "5. Moteurs typographiques"
     ]
@@ -421,6 +499,7 @@
     "section": "Notes et retours de la séance",
     "text": "Notes et retours de la séance\nÀ compléter après l’atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.",
     "crumbs": [
+      "Accueil",
       "Les séances",
       "5. Moteurs typographiques"
     ]
