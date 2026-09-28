@@ -216,36 +216,75 @@
     ]
   },
   {
-    "objectID": "club.html",
-    "href": "club.html",
-    "title": "Le club du format texte",
+    "objectID": "ressources.html",
+    "href": "ressources.html",
+    "title": "Ressources",
     "section": "",
-    "text": "Ces ateliers sont une initiative libre, sans inscription. L’idée est de faire naître, au fil des séances, un club des utilisatrices et utilisateurs du format texte à l’université.",
+    "text": "Cette page rassemble ce qui peut servir avant, pendant et après les séances. Elle s’enrichit au fil des ateliers et des échanges du club : n’hésitez pas à proposer des ajouts.",
     "crumbs": [
       "Accueil",
-      "Le club"
+      "Annexes",
+      "Ressources"
     ]
   },
   {
-    "objectID": "club.html#échanger-nos-pratiques",
-    "href": "club.html#échanger-nos-pratiques",
-    "title": "Le club du format texte",
-    "section": "Échanger nos pratiques",
-    "text": "Échanger nos pratiques\nVous écrivez déjà en Markdown, avec Quarto, Stylo, LaTeX ou Typst ? Vos retours d’expérience sont les bienvenus : chaîne d’écriture, modèles de documents, astuces bibliographiques, difficultés rencontrées.\nDes séances d’échange pourront être organisées après les six premières séances, ou au second semestre.",
+    "objectID": "ressources.html#tutoriels",
+    "href": "ressources.html#tutoriels",
+    "title": "Ressources",
+    "section": "Tutoriels",
+    "text": "Tutoriels\n\nPar outil\n\nMarkdown et Zettlr : documentation de Zettlr\nZotero : documentation de Zotero\nPandoc : manuel de Pandoc\nQuarto : guide de Quarto\nStylo : à compléter (documentation de Stylo)\nLaTeX et Typst : documentation de Typst ; à compléter (LaTeX)\nHTML et CSS Print : à compléter\n\n\n\nFiches et pas-à-pas\n\nÀ compléter : fiches rédigées pour les séances (installation, premiers pas, dépannage).",
     "crumbs": [
       "Accueil",
-      "Le club"
+      "Annexes",
+      "Ressources"
     ]
   },
   {
-    "objectID": "club.html#proposer-une-séance-ou-une-pratique",
-    "href": "club.html#proposer-une-séance-ou-une-pratique",
-    "title": "Le club du format texte",
-    "section": "Proposer une séance ou une pratique",
-    "text": "Proposer une séance ou une pratique\nÀ compléter : comment proposer un sujet (par courriel, via un dépôt partagé…).\nContact : julien.rabaud@univ-pau.fr",
+    "objectID": "ressources.html#exemples",
+    "href": "ressources.html#exemples",
+    "title": "Ressources",
+    "section": "Exemples",
+    "text": "Exemples\nDes documents réels pour voir à quoi ressemble un texte source et ce qu’il produit.\n\n\n\nExemple\nSource\nRendu\n\n\n\n\nL’affiche des ateliers (Markdown + CSS Print)\naffiche.qmd\nAffiche\n\n\nÀ compléter : article, mémoire, diaporama…\n\n\n\n\n\nLe dépôt de ce site est lui-même un exemple de projet Quarto complet.",
     "crumbs": [
       "Accueil",
-      "Le club"
+      "Annexes",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#modèles-et-gabarits",
+    "href": "ressources.html#modèles-et-gabarits",
+    "title": "Ressources",
+    "section": "Modèles et gabarits",
+    "text": "Modèles et gabarits\n\nÀ compléter : modèles de mémoire ou de thèse, feuilles de style CSL, gabarits Pandoc ou Typst.",
+    "crumbs": [
+      "Accueil",
+      "Annexes",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#pour-aller-plus-loin",
+    "href": "ressources.html#pour-aller-plus-loin",
+    "title": "Ressources",
+    "section": "Pour aller plus loin",
+    "text": "Pour aller plus loin\n\nÀ compléter : articles, billets de blog, retours d’expérience.",
+    "crumbs": [
+      "Accueil",
+      "Annexes",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#proposer-une-ressource",
+    "href": "ressources.html#proposer-une-ressource",
+    "title": "Ressources",
+    "section": "Proposer une ressource",
+    "text": "Proposer une ressource\nUne ressource à partager ? Écrivez à julien.rabaud@univ-pau.fr ou ouvrez une proposition sur le dépôt.",
+    "crumbs": [
+      "Accueil",
+      "Annexes",
+      "Ressources"
     ]
   },
   {
@@ -286,6 +325,39 @@
     "text": "Un club des utilisateurs du format texte\nL’idée est aussi de faire naître, au fil des séances, un club des utilisatrices et utilisateurs du format texte à l’université. Les échanges de pratiques sont encouragés : voir la page Le club.",
     "crumbs": [
       "Accueil"
+    ]
+  },
+  {
+    "objectID": "club.html",
+    "href": "club.html",
+    "title": "Le club du format texte",
+    "section": "",
+    "text": "Ces ateliers sont une initiative libre, sans inscription. L’idée est de faire naître, au fil des séances, un club des utilisatrices et utilisateurs du format texte à l’université.",
+    "crumbs": [
+      "Accueil",
+      "Le club"
+    ]
+  },
+  {
+    "objectID": "club.html#échanger-nos-pratiques",
+    "href": "club.html#échanger-nos-pratiques",
+    "title": "Le club du format texte",
+    "section": "Échanger nos pratiques",
+    "text": "Échanger nos pratiques\nVous écrivez déjà en Markdown, avec Quarto, Stylo, LaTeX ou Typst ? Vos retours d’expérience sont les bienvenus : chaîne d’écriture, modèles de documents, astuces bibliographiques, difficultés rencontrées.\nDes séances d’échange pourront être organisées après les six premières séances, ou au second semestre.",
+    "crumbs": [
+      "Accueil",
+      "Le club"
+    ]
+  },
+  {
+    "objectID": "club.html#proposer-une-séance-ou-une-pratique",
+    "href": "club.html#proposer-une-séance-ou-une-pratique",
+    "title": "Le club du format texte",
+    "section": "Proposer une séance ou une pratique",
+    "text": "Proposer une séance ou une pratique\nÀ compléter : comment proposer un sujet (par courriel, via un dépôt partagé…).\nContact : julien.rabaud@univ-pau.fr",
+    "crumbs": [
+      "Accueil",
+      "Le club"
     ]
   },
   {

@@ -2,6 +2,34 @@
    Personnalisations du site (en plus de _brand.yaml)
    ========================================================================== */
 
+body {
+    hyphens: auto;
+    overflow-wrap: break-word;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+}
+
+figcaption{
+    text-align: center;
+}
+
+h1 {
+    color:indigo;
+}
+
+h2 {
+    color: indigo;
+}
+
+.subtitle {
+    color: indigo;
+    font-style: italic;
+}   
+
+.navbar-title {
+    font-family: Amaranth, sans-serif;
+}
+
 /* Barre de navigation : titre du site en jaune clair */
 .navbar .navbar-brand {
     --bs-navbar-brand-color: lightyellow;
@@ -14,6 +42,6 @@
    Uniquement en affichage large ; en mode mobile le titre reste centré. */
 @media (min-width: 992px) {
     .navbar .navbar-brand-container {
-        padding-right: 2.5rem;
+        padding-right: 3rem;
     }
 }
