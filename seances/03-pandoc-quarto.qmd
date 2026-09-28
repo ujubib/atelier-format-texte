@@ -1,0 +1,28 @@
+---
+title: "3. Couteau suisse et Tout-en-Un"
+subtitle: "Avec Pandoc et Quarto"
+date: 2026-11-02
+---
+
+*18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription*
+
+## Objectifs
+
+- *À compléter.*
+
+## À installer avant la séance
+
+- [Pandoc](https://pandoc.org)
+- [Quarto](https://quarto.org)
+
+## Déroulé
+
+1. *À compléter.*
+
+## Ressources
+
+- *À compléter : documentation, exemples, fichiers de démonstration.*
+
+## Notes et retours de la séance
+
+*À compléter après l'atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.*

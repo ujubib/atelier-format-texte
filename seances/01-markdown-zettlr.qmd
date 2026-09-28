@@ -1,0 +1,27 @@
+---
+title: "1. Principes et syntaxe Markdown"
+subtitle: "Avec Zettlr"
+date: 2026-10-12
+---
+
+*18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription*
+
+## Objectifs
+
+- *À compléter.*
+
+## À installer avant la séance
+
+- [Zettlr](https://www.zettlr.com)
+
+## Déroulé
+
+1. *À compléter.*
+
+## Ressources
+
+- *À compléter : documentation, exemples, fichiers de démonstration.*
+
+## Notes et retours de la séance
+
+*À compléter après l'atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.*

@@ -1,0 +1,28 @@
+---
+title: "5. Moteurs typographiques"
+subtitle: "Avec LaTeX et Typst"
+date: 2026-11-16
+---
+
+*18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription*
+
+## Objectifs
+
+- *À compléter.*
+
+## À installer avant la séance
+
+- [LaTeX](https://www.latex-project.org)
+- [Typst](https://typst.app)
+
+## Déroulé
+
+1. *À compléter.*
+
+## Ressources
+
+- *À compléter : documentation, exemples, fichiers de démonstration.*
+
+## Notes et retours de la séance
+
+*À compléter après l'atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.*

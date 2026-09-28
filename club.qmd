@@ -1,0 +1,17 @@
+---
+title: "Le club du format texte"
+---
+
+Ces ateliers sont une initiative libre, sans inscription. L'idée est de faire naître, au fil des séances, un **club des utilisatrices et utilisateurs du format texte** à l'université.
+
+## Échanger nos pratiques
+
+Vous écrivez déjà en Markdown, avec Quarto, Stylo, LaTeX ou Typst ? Vos retours d'expérience sont les bienvenus : chaîne d'écriture, modèles de documents, astuces bibliographiques, difficultés rencontrées.
+
+Des séances d'échange pourront être organisées après les six premières séances, ou au second semestre.
+
+## Proposer une séance ou une pratique
+
+*À compléter : comment proposer un sujet (par courriel, via un dépôt partagé…).*
+
+Contact : [julien.rabaud@univ-pau.fr](mailto:julien.rabaud@univ-pau.fr)

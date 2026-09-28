@@ -1,0 +1,28 @@
+# Charte de départ : reprend les couleurs et la police de l'affiche.
+# À affiner plus tard (la page d'accueil, qui est l'affiche, garde sa propre feuille print.css).
+meta:
+  name: Le format texte
+
+color:
+  palette:
+    cream: "#fdfbf7"
+    ink: "#222227"
+    muted: "#5e5c64"
+    blue: "#1a5fb4"
+    red: "#c01c28"
+  background: cream
+  foreground: ink
+  primary: blue
+  secondary: muted
+  danger: red
+
+typography:
+  fonts:
+    - family: Courier New
+      source: system
+  base:
+    family: Courier New
+  headings:
+    family: Courier New
+  monospace:
+    family: Courier New

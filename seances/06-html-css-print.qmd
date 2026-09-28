@@ -1,0 +1,27 @@
+---
+title: "6. Publications multi-formats"
+subtitle: "Avec HTML et CSS Print"
+date: 2026-11-23
+---
+
+*18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription*
+
+## Objectifs
+
+- *À compléter.*
+
+## À installer avant la séance
+
+- [Un navigateur web récent (Firefox ou Chrome)](https://www.mozilla.org/fr/firefox/)
+
+## Déroulé
+
+1. *À compléter.*
+
+## Ressources
+
+- *À compléter : documentation, exemples, fichiers de démonstration.*
+
+## Notes et retours de la séance
+
+*À compléter après l'atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.*

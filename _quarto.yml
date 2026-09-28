@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - club.qmd
+    - seances/*.qmd
+  post-render:
+    - python3 scripts/affiche-sans-bootstrap.py
+
+lang: fr
+
+website:
+  title: "Le format texte : libérez vos documents !"
+  description: "Cycle d'ateliers d'écriture académique au format texte (BU de Pau, UPPA)."
+  page-navigation: true
+  bread-crumbs: false
+  sidebar:
+    style: docked
+    search: false
+    contents:
+      - text: "← L'affiche"
+        href: index.qmd
+      - section: "Les séances"
+        contents:
+          - seances/01-markdown-zettlr.qmd
+          - seances/02-zotero.qmd
+          - seances/03-pandoc-quarto.qmd
+          - seances/04-stylo.qmd
+          - seances/05-latex-typst.qmd
+          - seances/06-html-css-print.qmd
+      - text: "Le club"
+        href: club.qmd
+
+format:
+  html:
+    toc: true
+    toc-title: "Sur cette page"
+    date-format: "dddd D MMMM YYYY"
+    code-copy: true
