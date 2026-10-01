@@ -20,7 +20,31 @@ date: 2026-10-12
 
 ## Ressources
 
-- *À compléter : documentation, exemples, fichiers de démonstration.*
+### Comprendre Markdown
+
+- [Markdown Guide](https://markdownguide.org) : le plus complet et synthétique, avec sa [*cheat sheet*](https://markdownguide.org/cheat-sheet), sa [syntaxe de base](https://markdownguide.org/basic-syntax) et sa [syntaxe étendue](https://markdownguide.org/extended-syntax).
+- Sarah Simpkin, [*Débuter avec Markdown*](https://programminghistorian.org/fr/lecons/debuter-avec-markdown), The Programming Historian, 2015 (màj 2020).
+- [Markdown Tutorial](https://markdowntutorial.com) : un tutoriel interactif, multilingue, pour pratiquer en direct.
+
+### Pourquoi écrire en texte brut
+
+- Tennen & Wythoff, [*Rédaction durable avec Pandoc et Markdown*](https://programminghistorian.org/fr/lecons/redaction-durable-avec-pandoc-et-markdown), The Programming Historian, 2014 (màj 2020).
+- Émilien Ruiz, [*Apprendre à écrire ?*](http://www.boiteaoutils.info/2020/04/apprendre-ecrire/), La boîte à outils des historien·ne·s, avril 2020.
+- Arthur Perret, [*Écrire et éditer*](https://www.arthurperret.fr/ecrire-et-editer.html), mai 2020.
+- Antoine Fauchié, [*Fabriques de publication\ : Zettlr*](https://www.quaternum.net/2020/08/28/fabriques-de-publication-zettlr/), quaternum.net, août 2020.
+
+### Zettlr
+
+- [Documentation en français](https://docs.zettlr.com/fr/)
+- [Chaîne YouTube](https://youtube.com/c/Zettlr)
+- Arthur Perret, [*Recommandation\ : Zettlr*](https://www.arthurperret.fr/recommandation-zettlr.html), septembre 2019.
+- Hendrik Erz, [*Zettlr and Academic Markdown*](https://www.hendrik-erz.de/post/how-i-work-part-v-zettlr-and-academic-markdown) (le développeur de Zettlr sur l'écriture académique).
+
+### Pour aller plus loin
+
+- [Obsidian.md](https://obsidian.md) et [Typora](https://typora.io) : deux autres éditeurs souvent cités, pour comparaison.
+
+Voir aussi la page [Ressources](../ressources.qmd) du site pour les repères théoriques et les autres outils du cycle.
 
 ## Notes et retours de la séance
 

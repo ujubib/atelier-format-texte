@@ -5,6 +5,14 @@ subtitle: "Tutoriels, exemples et références pour écrire au format texte"
 
 Cette page rassemble ce qui peut servir avant, pendant et après les séances. Elle s'enrichit au fil des ateliers et des échanges du [club](club.qmd) : n'hésitez pas à proposer des ajouts.
 
+## Repères théoriques
+
+Des travaux de recherche qui pensent les formats, l'écriture et les chaînes de publication plutôt que les outils.
+
+- Robin de Mourat, [*Le vacillement des formats. Matérialité, écriture et enquête\ : le design des publications en Sciences Humaines et Sociales*](http://www.these.robindemourat.com/), thèse de doctorat en Esthétique et Arts appliqués, Rennes 2, 2020. Disponible en ligne, en HTML, avec un glossaire consultable.
+- Julie Blanc, thèse de doctorat en ergonomie et conception, Paris 8 / ArTeC (EnsadLab), sur l'usage des technologies web pour l'impression par les designers graphiques, 2025. *Lien vers le texte intégral à ajouter (theses.fr ou julie-blanc.fr).*
+- Julie Blanc et Lucile Haute, *Standards du web et publication académique*, CodeX n°1, HYX, 2017. *Lien à ajouter.*
+
 ## Tutoriels
 
 ### Par outil
@@ -27,10 +35,10 @@ Des documents réels pour voir à quoi ressemble un texte source et ce qu'il pro
 
 | Exemple | Source | Rendu |
 |:--------|:-------|:------|
-| L'affiche des ateliers (Markdown + CSS Print) | [affiche.qmd](https://github.com/TON-PSEUDO/atelier-format-texte/blob/main/affiche.qmd) | [Affiche](affiche.qmd) |
+| L'affiche des ateliers (Markdown + CSS Print) | [affiche.qmd](https://github.com/ujubib/atelier-format-texte/blob/main/affiche.qmd) | [Affiche](affiche.qmd) |
 | *À compléter : article, mémoire, diaporama…* | | |
 
-Le [dépôt de ce site](https://github.com/TON-PSEUDO/atelier-format-texte) est lui-même un exemple de projet Quarto complet.
+Le [dépôt de ce site](https://github.com/ujubib/atelier-format-texte) est lui-même un exemple de projet Quarto complet.
 
 ## Modèles et gabarits
 

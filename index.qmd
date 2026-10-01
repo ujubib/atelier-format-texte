@@ -21,7 +21,7 @@ Le programme se trouve sur [l'affiche](affiche.qmd) (écrite en markdown , expor
 - **Reproductible :** du texte brut, des références automatiques, l'historique de toutes vos versions.
 - **Frugal et rapide :** des fichiers légers, des outils qui tournent sur n'importe quelle plateforme.
 
-[C'est le format naturel de la *Science Ouverte* !!!]{style="font-size:1.2em;color:green"}
+[☙ C'est le format naturel de la *Science Ouverte* ❧]{style="font-size:1.2em;color:green"}
 
 ## Les séances
 
