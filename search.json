@@ -228,11 +228,11 @@
     ]
   },
   {
-    "objectID": "ressources.html#repères-théoriques",
-    "href": "ressources.html#repères-théoriques",
+    "objectID": "ressources.html#inspirations",
+    "href": "ressources.html#inspirations",
     "title": "Ressources",
-    "section": "Repères théoriques",
-    "text": "Repères théoriques\nDes travaux de recherche qui pensent les formats, l’écriture et les chaînes de publication plutôt que les outils.\n\nRobin de Mourat, Le vacillement des formats. Matérialité, écriture et enquête : le design des publications en Sciences Humaines et Sociales, thèse de doctorat en Esthétique et Arts appliqués, Rennes 2, 2020. Disponible en ligne, en HTML, avec un glossaire consultable.\nJulie Blanc, thèse de doctorat en ergonomie et conception, Paris 8 / ArTeC (EnsadLab), sur l’usage des technologies web pour l’impression par les designers graphiques, 2025. Lien vers le texte intégral à ajouter (theses.fr ou julie-blanc.fr).\nJulie Blanc et Lucile Haute, Standards du web et publication académique, CodeX n°1, HYX, 2017. Lien à ajouter.",
+    "section": "Inspirations",
+    "text": "Inspirations\n\nLe Guide pratique d’artisanat numérique à l’Université de Christophe Masutti.\nLes premières saisons de Déb/u/o/gue tes humanités.\nLes cours d’Arthur Perret.\nLe manuel L’écriture académique au format texte avec Markdown et Pandoc de Bernard Pochet.\nLe travail de Julie Blanc.\nLes éditions abrüpt.\nLes réflexions d’Antoine Fauchié sur les fabriques de publication.",
     "crumbs": [
       "Accueil",
       "Annexes",
@@ -280,7 +280,7 @@
     "href": "ressources.html#pour-aller-plus-loin",
     "title": "Ressources",
     "section": "Pour aller plus loin",
-    "text": "Pour aller plus loin\n\nÀ compléter : articles, billets de blog, retours d’expérience.",
+    "text": "Pour aller plus loin\nDes travaux de recherche qui pensent les formats, l’écriture et les chaînes de publication plutôt que les outils.\n\nRobin de Mourat, Le vacillement des formats. Matérialité, écriture et enquête : le design des publications en Sciences Humaines et Sociales, thèse de doctorat en Esthétique et Arts appliqués, Rennes 2, 2020. Disponible en ligne, en HTML, avec un glossaire consultable.\nJulie Blanc, thèse de doctorat en ergonomie et conception, Paris 8 / ArTeC (EnsadLab), sur l’usage des technologies web pour l’impression par les designers graphiques, 2025. Lien vers le texte intégral à ajouter (theses.fr) — son site donne un aperçu de ses travaux.\nJulie Blanc et Lucile Haute, Standards du web et publication académique, CodeX n°1, HYX, 2017. Lien à ajouter.\nÀ compléter : autres articles, billets de blog, retours d’expérience.",
     "crumbs": [
       "Accueil",
       "Annexes",
@@ -293,6 +293,18 @@
     "title": "Ressources",
     "section": "Proposer une ressource",
     "text": "Proposer une ressource\nUne ressource à partager ? Écrivez à julien.rabaud@univ-pau.fr ou ouvrez une proposition sur le dépôt.",
+    "crumbs": [
+      "Accueil",
+      "Annexes",
+      "Ressources"
+    ]
+  },
+  {
+    "objectID": "ressources.html#humour",
+    "href": "ressources.html#humour",
+    "title": "Ressources",
+    "section": "Humour",
+    "text": "Humour\n\n\n\n\n\n\nAvertissementmemes",
     "crumbs": [
       "Accueil",
       "Annexes",
@@ -314,7 +326,7 @@
     "href": "index.html#pourquoi-passer-au-format-texte",
     "title": "Le format texte : libérez vos documents !",
     "section": "Pourquoi passer au format texte ?",
-    "text": "Pourquoi passer au format texte ?\n\nLibre et pérenne : des formats ouverts et des logiciels libres, lisibles dans vingt ans.\nInteropérable : un même texte circule entre outils, collègues et éditeurs, et donne PDF, article, diapos ou site web.\nReproductible : du texte brut, des références automatiques, l’historique de toutes vos versions.\nFrugal et rapide : des fichiers légers, des outils qui tournent sur n’importe quelle plateforme.\n\n☙ C’est le format naturel de la Science Ouverte ❧",
+    "text": "Pourquoi passer au format texte ?\n\n\n\n\nLibre et pérenne : des formats ouverts et des logiciels libres, lisibles dans vingt ans.\nInteropérable : un même texte circule entre outils, collègues et éditeurs, et donne PDF, article, diapos ou site web.\nReproductible : du texte brut, des références automatiques, l’historique de toutes vos versions.\nFrugal et rapide : des fichiers légers, des outils qui tournent sur n’importe quelle plateforme.\n\n\n☙ C’est le format naturel de la Science Ouverte ❧",
     "crumbs": [
       "Accueil"
     ]
@@ -324,7 +336,7 @@
     "href": "index.html#les-séances",
     "title": "Le format texte : libérez vos documents !",
     "section": "Les séances",
-    "text": "Les séances\n\n\n\nDate\nSéance\n\n\n\n\n12 oct.\n1. Principes et syntaxe Markdown (avec Zettlr)\n\n\n19 oct.\n2. Connecter la biblio (avec Zotero)\n\n\n26 oct.\nPause, vacances universitaires\n\n\n2 nov.\n3. Couteau suisse et Tout-en-Un (Pandoc et Quarto)\n\n\n9 nov.\n4. Édition sémantique en SHS (Stylo)\n\n\n16 nov.\n5. Moteurs typographiques (LaTeX et Typst)\n\n\n23 nov.\n6. Publications multi-formats (HTML et CSS Print)",
+    "text": "Les séances\n\n\n\nDate\nSéance\n\n\n\n\n12 oct.\n1. Principes d’écriture et syntaxe Markdown (avec Zettlr)\n\n\n19 oct.\n2. Connecter la biblio (avec Zotero)\n\n\n26 oct.\nPause, vacances universitaires\n\n\n2 nov.\n3. Couteau suisse et Tout-en-Un (Pandoc et Quarto)\n\n\n9 nov.\n4. Édition sémantique en SHS (Stylo)\n\n\n16 nov.\n5. Moteurs typographiques (LaTeX et Typst)\n\n\n23 nov.\n6. Publications multi-formats (HTML et CSS Print)",
     "crumbs": [
       "Accueil"
     ]
@@ -334,7 +346,7 @@
     "href": "index.html#un-club-des-utilisateurs-du-format-texte",
     "title": "Le format texte : libérez vos documents !",
     "section": "Un club des utilisateurs du format texte",
-    "text": "Un club des utilisateurs du format texte\nL’idée est aussi de faire naître, au fil des séances, un club des utilisatrices et utilisateurs du format texte à l’université. Les échanges de pratiques sont encouragés : voir la page Le club.",
+    "text": "Un club des utilisateurs du format texte\nL’idée est aussi de faire naître, au fil des séances, un club des utilisatrices et utilisateurs du format texte à l’université. Les échanges de pratiques sont encouragés : voir la page Le club.\n\n\n\n\n\n\nAstuceInspirations\n\n\n\n\n\n\nLe Guide pratique d’artisanat numérique à l’Université de Christophe Masutti.\nLes premières saisons de Déb/u/o/gue tes humanités.\nLes cours d’Arthur Perret.\nLe manuel L’écriture académique au format texte avec Markdown et Pandoc de Bernard Pochet\nLe travail de Julie Blanc.\nLes éditions abrüpt.\nLes réflexions d’Antoine Fauchié sur les fabriques de publications.",
     "crumbs": [
       "Accueil"
     ]
@@ -389,7 +401,7 @@
     "href": "seances/01-markdown-zettlr.html#objectifs",
     "title": "1. Principes et syntaxe Markdown",
     "section": "Objectifs",
-    "text": "Objectifs\n\nÀ compléter.",
+    "text": "Objectifs\n\nApprendre la syntaxe Markdown\nConnaître l’existence de différentes saaveurs de Markdown\nDisposer d’un environnement d’écriture (notes et rédaction) fonctionnel",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -397,11 +409,11 @@
     ]
   },
   {
-    "objectID": "seances/01-markdown-zettlr.html#à-installer-avant-la-séance",
-    "href": "seances/01-markdown-zettlr.html#à-installer-avant-la-séance",
+    "objectID": "seances/01-markdown-zettlr.html#à-installer",
+    "href": "seances/01-markdown-zettlr.html#à-installer",
     "title": "1. Principes et syntaxe Markdown",
-    "section": "À installer avant la séance",
-    "text": "À installer avant la séance\n\nZettlr",
+    "section": "À installer",
+    "text": "À installer\n\nZettlr (libre) ou Obsidian.md (non-libre) (ou un autre éditeur Markdown de votre choix)",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -413,7 +425,7 @@
     "href": "seances/01-markdown-zettlr.html#déroulé",
     "title": "1. Principes et syntaxe Markdown",
     "section": "Déroulé",
-    "text": "Déroulé\n\nÀ compléter.",
+    "text": "Déroulé\n\nPourquoi le format texte\nComparaison avec .docx et .odt\nParmi les formats texte structurés (orgmode, wikitext, reStructuredText, LaTeX…), pourquoi Markdown ?\nPrésentation de Zettlr et de ses fonctionnalités\nSyntaxe Markdown : titres, paragraphes, listes, citations, emphases, liens\nSyntaxe Markdown : images, tableaux, code, notes de bas de page, références\nEn-têtes et métadonnées YAML",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -425,7 +437,7 @@
     "href": "seances/01-markdown-zettlr.html#ressources",
     "title": "1. Principes et syntaxe Markdown",
     "section": "Ressources",
-    "text": "Ressources\n\nComprendre Markdown\n\nMarkdown Guide : le plus complet et synthétique, avec sa cheat sheet, sa syntaxe de base et sa syntaxe étendue.\nSarah Simpkin, Débuter avec Markdown, The Programming Historian, 2015 (màj 2020).\nMarkdown Tutorial : un tutoriel interactif, multilingue, pour pratiquer en direct.\n\n\n\nPourquoi écrire en texte brut\n\nTennen & Wythoff, Rédaction durable avec Pandoc et Markdown, The Programming Historian, 2014 (màj 2020).\nÉmilien Ruiz, Apprendre à écrire ?, La boîte à outils des historien·ne·s, avril 2020.\nArthur Perret, Écrire et éditer, mai 2020.\nAntoine Fauchié, Fabriques de publication : Zettlr, quaternum.net, août 2020.\n\n\n\nZettlr\n\nDocumentation en français\nChaîne YouTube\nArthur Perret, Recommandation : Zettlr, septembre 2019.\nHendrik Erz, Zettlr and Academic Markdown (le développeur de Zettlr sur l’écriture académique).\n\n\n\nPour aller plus loin\n\nObsidian.md et Typora : deux autres éditeurs souvent cités, pour comparaison.\n\nVoir aussi la page Ressources du site pour les repères théoriques et les autres outils du cycle.",
+    "text": "Ressources\n\nPourquoi écrire en texte brut\n\nTennen & Wythoff, Rédaction durable avec Pandoc et Markdown, The Programming Historian, 2014 (màj 2020).\nÉmilien Ruiz, Apprendre à écrire ?, La boîte à outils des historien·ne·s, avril 2020.\nArthur Perret, Écrire et éditer, mai 2020.\nAntoine Fauchié, Fabriques de publication : Zettlr, quaternum.net, août 2020.\n\n\n\nComprendre Markdown\n\nMarkdown Guide : le plus complet et synthétique, avec sa cheat sheet, sa syntaxe de base et sa syntaxe étendue.\nSarah Simpkin, Débuter avec Markdown, The Programming Historian, 2015 (màj 2020).\nMarkdown Tutorial : un tutoriel interactif, multilingue, pour pratiquer en direct.\n\n\n\nZettlr\n\nDocumentation en français\nChaîne YouTube\nArthur Perret, Recommandation : Zettlr, septembre 2019.\nHendrik Erz, Zettlr and Academic Markdown (le développeur de Zettlr sur l’écriture académique).\n\n\n\nPour aller plus loin\n\nObsidian.md et Typora : deux autres éditeurs souvent cités, pour comparaison.\n\nVoir aussi la page Ressources du site pour les repères théoriques et les autres outils du cycle.",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -437,7 +449,7 @@
     "href": "seances/01-markdown-zettlr.html#notes-et-retours-de-la-séance",
     "title": "1. Principes et syntaxe Markdown",
     "section": "Notes et retours de la séance",
-    "text": "Notes et retours de la séance\nÀ compléter après l’atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.",
+    "text": "Notes et retours de la séance",
     "crumbs": [
       "Accueil",
       "Les séances",

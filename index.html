@@ -31,6 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./seances/01-markdown-zettlr.html" rel="next">
+<link href="./img/logo-markdown.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -43,9 +44,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-10d6bfaa2f8bcb121088c7d3a1816829.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d06103a19c999480165bc56b62ba6669.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-d06103a19c999480165bc56b62ba6669.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-d06103a19c999480165bc56b62ba6669.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-165a8d1a0ecbd4d4c3b32d589037c37f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-165a8d1a0ecbd4d4c3b32d589037c37f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-165a8d1a0ecbd4d4c3b32d589037c37f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -78,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed fullcontent quarto-light">
+<body class="nav-sidebar docked nav-fixed slimcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -86,6 +87,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./img\logo-markdown.png" alt="" class="navbar-logo light-content">
+    <img src="./img\logo-markdown.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Ateliers d’écriture numérique</span>
@@ -174,6 +177,8 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
       <a href="./index.html" class="sidebar-logo-link">
+      <img src="./img\logo-markdown.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="./img\logo-markdown.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
       </a>
       </div>
     <div class="sidebar-menu-container"> 
@@ -256,12 +261,18 @@ ul.task-list li input[type="checkbox"] {
   </li>
     </ul>
     </div>
-</nav>
+<div class="quarto-sidebar-footer"><div class="sidebar-footer-item">
+<div class="text-center">
+<p><span style="font-size:1.5em;color:saddlebrown">←✪✪✪→</span></p>
+<p><img src=".\img/musee.webp" class="img-fluid" style="margin-top:20px;margin-bottom:20px;border:2px solid saddlebrown;border-radius:12px;width:85.0%"></p>
+</div>
+</div></div></nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -297,15 +308,20 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <p>Le programme se trouve sur <a href="./affiche.html">l’affiche</a> (écrite en markdown , exportée en html avec une feuille css spécifique pour l’impression), que vous pouvez télécharger et diffuser.</p>
-<section id="pourquoi-passer-au-format-texte" class="level2">
+<section id="pourquoi-passer-au-format-texte" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="pourquoi-passer-au-format-texte">Pourquoi passer au format texte ?</h2>
-<ul>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p><img src="img/logo-markdown.png" title="Logo Markdown" class="img-fluid" style="width:70.0%"></p>
+</div></div><ul>
 <li><strong>Libre et pérenne :</strong> des formats ouverts et des logiciels libres, lisibles dans vingt ans.</li>
 <li><strong>Interopérable :</strong> un même texte circule entre outils, collègues et éditeurs, et donne PDF, article, diapos ou site web.</li>
 <li><strong>Reproductible :</strong> du texte brut, des références automatiques, l’historique de toutes vos versions.</li>
 <li><strong>Frugal et rapide :</strong> des fichiers légers, des outils qui tournent sur n’importe quelle plateforme.</li>
 </ul>
-<p><span style="font-size:1.2em;color:green">☙ C’est le format naturel de la <em>Science Ouverte</em> ❧</span></p>
+<div style="margin-top:1em;font-size:1.4em;color:green">
+<p>☙ C’est le format naturel de la <em>Science Ouverte</em> ❧</p>
+</div>
 </section>
 <section id="les-séances" class="level2">
 <h2 class="anchored" data-anchor-id="les-séances">Les séances</h2>
@@ -319,7 +335,7 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">12 oct.</td>
-<td style="text-align: left;"><a href="./seances/01-markdown-zettlr.html">1. Principes et syntaxe Markdown</a> (avec Zettlr)</td>
+<td style="text-align: left;"><a href="./seances/01-markdown-zettlr.html">1. Principes d’écriture et syntaxe Markdown</a> (avec Zettlr)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">19 oct.</td>
@@ -351,8 +367,32 @@ ul.task-list li input[type="checkbox"] {
 <section id="un-club-des-utilisateurs-du-format-texte" class="level2">
 <h2 class="anchored" data-anchor-id="un-club-des-utilisateurs-du-format-texte">Un club des utilisateurs du format texte</h2>
 <p>L’idée est aussi de faire naître, au fil des séances, un club des utilisatrices et utilisateurs du format texte à l’université. Les échanges de pratiques sont encouragés : voir la page <a href="./club.html">Le club</a>.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Astuce</span>Inspirations
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<ul>
+<li>Le <a href="https://libruniv-c29483.frama.io/">Guide pratique d’artisanat numérique à l’Université</a> de Christophe Masutti.</li>
+<li>Les premières saisons de <a href="https://debugue.ecrituresnumeriques.ca/archives/">Déb/u/o/gue tes humanités</a>.</li>
+<li>Les <a href="https://www.arthurperret.fr/cours/">cours</a> d’Arthur Perret.</li>
+<li>Le manuel <a href="https://e-publish.uliege.be/md2/">L’écriture académique au format texte avec Markdown et Pandoc</a> de Bernard Pochet</li>
+<li>Le travail de <a href="https://julie-blanc.fr/">Julie Blanc</a>.</li>
+<li>Les éditions <a href="https://abrupt.cc/">abrüpt</a>.</li>
+<li>Les réflexions d’Antoine Fauchié sur <a href="https://www.quaternum.net/2020/04/29/les-fabriques-de-publication/">les fabriques de publications</a>.</li>
+</ul>
 
 
+</div>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
