@@ -228,6 +228,18 @@
     ]
   },
   {
+    "objectID": "ressources.html#repères-théoriques",
+    "href": "ressources.html#repères-théoriques",
+    "title": "Ressources",
+    "section": "Repères théoriques",
+    "text": "Repères théoriques\nDes travaux de recherche qui pensent les formats, l’écriture et les chaînes de publication plutôt que les outils.\n\nRobin de Mourat, Le vacillement des formats. Matérialité, écriture et enquête : le design des publications en Sciences Humaines et Sociales, thèse de doctorat en Esthétique et Arts appliqués, Rennes 2, 2020. Disponible en ligne, en HTML, avec un glossaire consultable.\nJulie Blanc, thèse de doctorat en ergonomie et conception, Paris 8 / ArTeC (EnsadLab), sur l’usage des technologies web pour l’impression par les designers graphiques, 2025. Lien vers le texte intégral à ajouter (theses.fr ou julie-blanc.fr).\nJulie Blanc et Lucile Haute, Standards du web et publication académique, CodeX n°1, HYX, 2017. Lien à ajouter.",
+    "crumbs": [
+      "Accueil",
+      "Annexes",
+      "Ressources"
+    ]
+  },
+  {
     "objectID": "ressources.html#tutoriels",
     "href": "ressources.html#tutoriels",
     "title": "Ressources",
@@ -413,7 +425,7 @@
     "href": "seances/01-markdown-zettlr.html#ressources",
     "title": "1. Principes et syntaxe Markdown",
     "section": "Ressources",
-    "text": "Ressources\n\nÀ compléter : documentation, exemples, fichiers de démonstration.",
+    "text": "Ressources\n\nComprendre Markdown\n\nMarkdown Guide : le plus complet et synthétique, avec sa cheat sheet, sa syntaxe de base et sa syntaxe étendue.\nSarah Simpkin, Débuter avec Markdown, The Programming Historian, 2015 (màj 2020).\nMarkdown Tutorial : un tutoriel interactif, multilingue, pour pratiquer en direct.\n\n\n\nPourquoi écrire en texte brut\n\nTennen & Wythoff, Rédaction durable avec Pandoc et Markdown, The Programming Historian, 2014 (màj 2020).\nÉmilien Ruiz, Apprendre à écrire ?, La boîte à outils des historien·ne·s, avril 2020.\nArthur Perret, Écrire et éditer, mai 2020.\nAntoine Fauchié, Fabriques de publication : Zettlr, quaternum.net, août 2020.\n\n\n\nZettlr\n\nDocumentation en français\nChaîne YouTube\nArthur Perret, Recommandation : Zettlr, septembre 2019.\nHendrik Erz, Zettlr and Academic Markdown (le développeur de Zettlr sur l’écriture académique).\n\n\n\nPour aller plus loin\n\nObsidian.md et Typora : deux autres éditeurs souvent cités, pour comparaison.\n\nVoir aussi la page Ressources du site pour les repères théoriques et les autres outils du cycle.",
     "crumbs": [
       "Accueil",
       "Les séances",
