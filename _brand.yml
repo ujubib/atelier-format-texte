@@ -17,6 +17,10 @@ color:
   secondary: muted
   danger: red
 
+logo:
+  medium: img/logo-markdown.png
+  small: img/logo-markdown.png
+
 typography:
   fonts:
     - family: Amaranth
@@ -31,3 +35,13 @@ typography:
     family: Amaranth
   monospace:
     family: B612 Mono
+
+defaults: 
+  bootstrap:
+    rules: |
+      .navbar-logo {
+        display: none;
+      }
+      .sidebar-logo {
+        display: none !important;
+      }

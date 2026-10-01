@@ -8,23 +8,25 @@ date: 2026-10-12
 
 ## Objectifs
 
-- *À compléter.*
+- Apprendre la syntaxe Markdown
+- Connaître l'existence de différentes saaveurs de Markdown
+- Disposer d'un environnement d'écriture (notes et rédaction) fonctionnel
 
-## À installer avant la séance
+## À installer 
 
-- [Zettlr](https://www.zettlr.com)
+- [Zettlr](https://www.zettlr.com) (libre) ou [Obsidian.md](https://obsidian.md) (non-libre) (ou un autre éditeur Markdown de votre choix)
 
 ## Déroulé
 
-1. *À compléter.*
+1. Pourquoi le format texte 
+2. Comparaison avec `.docx` et `.odt`
+3. Parmi les formats texte structurés (orgmode, wikitext, reStructuredText, LaTeX...), pourquoi Markdown ?
+4. Présentation de Zettlr et de ses fonctionnalités
+5. Syntaxe Markdown : titres, paragraphes, listes, citations, emphases, liens
+6. Syntaxe Markdown : images, tableaux, code, notes de bas de page, références
+7. En-têtes et métadonnées YAML
 
 ## Ressources
-
-### Comprendre Markdown
-
-- [Markdown Guide](https://markdownguide.org) : le plus complet et synthétique, avec sa [*cheat sheet*](https://markdownguide.org/cheat-sheet), sa [syntaxe de base](https://markdownguide.org/basic-syntax) et sa [syntaxe étendue](https://markdownguide.org/extended-syntax).
-- Sarah Simpkin, [*Débuter avec Markdown*](https://programminghistorian.org/fr/lecons/debuter-avec-markdown), The Programming Historian, 2015 (màj 2020).
-- [Markdown Tutorial](https://markdowntutorial.com) : un tutoriel interactif, multilingue, pour pratiquer en direct.
 
 ### Pourquoi écrire en texte brut
 
@@ -32,6 +34,13 @@ date: 2026-10-12
 - Émilien Ruiz, [*Apprendre à écrire ?*](http://www.boiteaoutils.info/2020/04/apprendre-ecrire/), La boîte à outils des historien·ne·s, avril 2020.
 - Arthur Perret, [*Écrire et éditer*](https://www.arthurperret.fr/ecrire-et-editer.html), mai 2020.
 - Antoine Fauchié, [*Fabriques de publication\ : Zettlr*](https://www.quaternum.net/2020/08/28/fabriques-de-publication-zettlr/), quaternum.net, août 2020.
+
+### Comprendre Markdown
+
+- [Markdown Guide](https://markdownguide.org) : le plus complet et synthétique, avec sa [*cheat sheet*](https://markdownguide.org/cheat-sheet), sa [syntaxe de base](https://markdownguide.org/basic-syntax) et sa [syntaxe étendue](https://markdownguide.org/extended-syntax).
+- Sarah Simpkin, [*Débuter avec Markdown*](https://programminghistorian.org/fr/lecons/debuter-avec-markdown), The Programming Historian, 2015 (màj 2020).
+- [Markdown Tutorial](https://markdowntutorial.com) : un tutoriel interactif, multilingue, pour pratiquer en direct.
+
 
 ### Zettlr
 
@@ -48,4 +57,3 @@ Voir aussi la page [Ressources](../ressources.qmd) du site pour les repères th�
 
 ## Notes et retours de la séance
 
-*À compléter après l'atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.*

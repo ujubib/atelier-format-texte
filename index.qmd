@@ -14,20 +14,27 @@ Un cycle de six ateliers consacrés à l'écriture académique au format texte, 
 
 Le programme se trouve sur [l'affiche](affiche.qmd) (écrite en markdown , exportée en html avec une feuille css spécifique pour l'impression), que vous pouvez télécharger et diffuser.
 
+
 ## Pourquoi passer au format texte ?
+
+::: {.column-margin}
+![](img/logo-markdown.png "Logo Markdown"){width="70%"}
+:::
 
 - **Libre et pérenne :** des formats ouverts et des logiciels libres, lisibles dans vingt ans.
 - **Interopérable :** un même texte circule entre outils, collègues et éditeurs, et donne PDF, article, diapos ou site web.
 - **Reproductible :** du texte brut, des références automatiques, l'historique de toutes vos versions.
 - **Frugal et rapide :** des fichiers légers, des outils qui tournent sur n'importe quelle plateforme.
 
-[☙ C'est le format naturel de la *Science Ouverte* ❧]{style="font-size:1.2em;color:green"}
+::: {style="margin-top:1em;font-size:1.4em;color:green"}
+☙ C'est le format naturel de la *Science Ouverte™* ❧
+:::
 
 ## Les séances
 
 | Date | Séance |
 |:-----|:-------|
-| 12 oct. | [1. Principes et syntaxe Markdown](seances/01-markdown-zettlr.qmd) (avec Zettlr) |
+| 12 oct. | [1. Principes d'écriture et syntaxe Markdown](seances/01-markdown-zettlr.qmd) (avec Zettlr) |
 | 19 oct. | [2. Connecter la biblio](seances/02-zotero.qmd) (avec Zotero) |
 | 26 oct. | *Pause, vacances universitaires* |
 | 2 nov. | [3. Couteau suisse et Tout-en-Un](seances/03-pandoc-quarto.qmd) (Pandoc et Quarto) |
@@ -38,3 +45,14 @@ Le programme se trouve sur [l'affiche](affiche.qmd) (écrite en markdown , expor
 ## Un club des utilisateurs du format texte
 
 L'idée est aussi de faire naître, au fil des séances, un club des utilisatrices et utilisateurs du format texte à l'université. Les échanges de pratiques sont encouragés : voir la page [Le club](club.qmd).
+
+::: {.callout-tip collapse="false"}
+## Inspirations 
+
+- Le [Guide pratique d’artisanat numérique à l’Université](https://libruniv-c29483.frama.io/) de Christophe Masutti.
+- Les premières saisons de [Déb/u/o/gue tes humanités](https://debugue.ecrituresnumeriques.ca/archives/).
+- Les [cours](https://www.arthurperret.fr/cours/) d'Arthur Perret.
+- Le manuel [L’écriture académique au format texte avec Markdown et Pandoc](https://e-publish.uliege.be/md2/) de Bernard Pochet
+- Le travail de [Julie Blanc](https://julie-blanc.fr/).
+- Les éditions [abrüpt](https://abrupt.cc/).
+- Les réflexions d'Antoine Fauchié sur [les fabriques de publications](https://www.quaternum.net/2020/04/29/les-fabriques-de-publication/).

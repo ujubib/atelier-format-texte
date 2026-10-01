@@ -1,17 +1,20 @@
 ---
 title: "Ressources"
 subtitle: "Tutoriels, exemples et références pour écrire au format texte"
+lightbox: true
 ---
 
 Cette page rassemble ce qui peut servir avant, pendant et après les séances. Elle s'enrichit au fil des ateliers et des échanges du [club](club.qmd) : n'hésitez pas à proposer des ajouts.
 
-## Repères théoriques
+## Inspirations
 
-Des travaux de recherche qui pensent les formats, l'écriture et les chaînes de publication plutôt que les outils.
-
-- Robin de Mourat, [*Le vacillement des formats. Matérialité, écriture et enquête\ : le design des publications en Sciences Humaines et Sociales*](http://www.these.robindemourat.com/), thèse de doctorat en Esthétique et Arts appliqués, Rennes 2, 2020. Disponible en ligne, en HTML, avec un glossaire consultable.
-- Julie Blanc, thèse de doctorat en ergonomie et conception, Paris 8 / ArTeC (EnsadLab), sur l'usage des technologies web pour l'impression par les designers graphiques, 2025. *Lien vers le texte intégral à ajouter (theses.fr ou julie-blanc.fr).*
-- Julie Blanc et Lucile Haute, *Standards du web et publication académique*, CodeX n°1, HYX, 2017. *Lien à ajouter.*
+- Le [Guide pratique d'artisanat numérique à l'Université](https://libruniv-c29483.frama.io/) de Christophe Masutti.
+- Les premières saisons de [Déb/u/o/gue tes humanités](https://debugue.ecrituresnumeriques.ca/archives/).
+- Les [cours](https://www.arthurperret.fr/cours/) d'Arthur Perret.
+- Le manuel [*L'écriture académique au format texte avec Markdown et Pandoc*](https://e-publish.uliege.be/md2/) de Bernard Pochet.
+- Le travail de [Julie Blanc](https://julie-blanc.fr/).
+- Les éditions [abrüpt](https://abrupt.cc/).
+- Les réflexions d'Antoine Fauchié sur [les fabriques de publication](https://www.quaternum.net/2020/04/29/les-fabriques-de-publication/).
 
 ## Tutoriels
 
@@ -46,8 +49,30 @@ Le [dépôt de ce site](https://github.com/ujubib/atelier-format-texte) est lui-
 
 ## Pour aller plus loin
 
-- *À compléter : articles, billets de blog, retours d'expérience.*
+Des travaux de recherche qui pensent les formats, l'écriture et les chaînes de publication plutôt que les outils.
+
+- Robin de Mourat, [*Le vacillement des formats. Matérialité, écriture et enquête\ : le design des publications en Sciences Humaines et Sociales*](http://www.these.robindemourat.com/), thèse de doctorat en Esthétique et Arts appliqués, Rennes 2, 2020. Disponible en ligne, en HTML, avec un glossaire consultable.
+- [Julie Blanc](https://julie-blanc.fr/), thèse de doctorat en ergonomie et conception, Paris 8 / ArTeC (EnsadLab), sur l'usage des technologies web pour l'impression par les designers graphiques, 2025. *Lien vers le texte intégral à ajouter (theses.fr) — son site donne un aperçu de ses travaux.*
+- Julie Blanc et Lucile Haute, *Standards du web et publication académique*, CodeX n°1, HYX, 2017. *Lien à ajouter.*
+- *À compléter : autres articles, billets de blog, retours d'expérience.*
 
 ## Proposer une ressource
 
 Une ressource à partager ? Écrivez à [julien.rabaud@univ-pau.fr](mailto:julien.rabaud@univ-pau.fr) ou ouvrez une proposition sur le dépôt.
+
+## Humour
+
+:::: {.callout-warning collapse="true"}
+### memes
+
+::: {layout="[[1,1], [1,1]]" style="padding:1em"}
+![](img/meme_timeword.jpg){group="meme"}
+
+![](img/meme_copypasteword.webp){group="meme"}
+
+![](img/meme_imageword.webp){group="meme"}
+
+![](img/meme_buildingword.webp){group="meme"}
+:::
+
+::::

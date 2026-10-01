@@ -51,6 +51,9 @@ website:
       - icon: github
         href: "https://github.com/ujubib/atelier-format-texte"
         aria-label: "Dépôt GitHub"
+      - icon: envelope
+        href: mailto:julien.rabaud@univ-pau.fr
+        aria-label: "Envoyer un email"
 
   sidebar:
     style: docked
@@ -72,10 +75,17 @@ website:
       - section: "Annexes"    
         contents:
           - ressources.qmd
+    footer: |
+      ::: {.text-center}
+      [←✪✪✪→]{style="font-size:1.4em;color:saddlebrown"}
+
+      ![](/img/musee.webp){width="85%" style="margin-top:20px;margin-bottom:20px;border:2px solid saddlebrown;border-radius:12px"}
+      :::
 
   page-footer:
     background: wheat
     border: false
+    right: "Fait avec [Quarto](https://quarto.org)"
 
 format:
   html:
