@@ -1,0 +1,12 @@
+"$schema" = "https://cdn.posit.co/publisher/schemas/posit-publishing-schema-v3.json"
+type = "html"
+entrypoint = "_site/index.html"
+title = "Le format texte : libérez vos documents !"
+source = "index.qmd"
+files = [
+    "/_site",
+    "/.posit/publish/Le format texte - libérez vos-8MSS.toml",
+    "/.posit/publish/deployments/deployment-VF7L.toml",
+]
+validate = true
+product_type = "connect_cloud"
