@@ -172,7 +172,7 @@
     "href": "seances/02-zotero.html#à-installer-avant-la-séance",
     "title": "2. Connecter la biblio",
     "section": "À installer avant la séance",
-    "text": "À installer avant la séance\n\nZettlr\nZotero\n\nl’extension BetterBibtex pour Zotero : documentation de BetterBibtex",
+    "text": "À installer avant la séance\n\nZettlr\nZotero\n\nl’extension BetterBibtex pour Zotero.",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -196,7 +196,7 @@
     "href": "seances/02-zotero.html#ressources",
     "title": "2. Connecter la biblio",
     "section": "Ressources",
-    "text": "Ressources\n\nZotero\nInstaller le plugin Better BibTeX for Zotero\nFaire un export de sa collection de thèse ou de l’ensemble de sa bibliothèque au format Better CSL JSON en cochant l’option “garder à jour” (keepUpdated)\n\n\n\nExport Zotero\n\n\nEnregistrer le fichier .json dans le dossier /bibliographie.\n\n\nZettlr\n\nBibliographie (lier zotero)\nC’est dans les paramètres de Zettlr que l’on va donner l’adresse des fichier csl.json et these.csl qui seront utilisés lors de la rédaction ainsi que par Pandoc Citeproc lors des exports.\n\n\n\nParamètres Citations dans Zettlr",
+    "text": "Ressources\n\nDans Zotero\nInstaller le plugin Better BibTeX for Zotero\nFaire un export de sa collection de projet ou de l’ensemble de sa bibliothèque au format Better CSL JSON en cochant l’option garder à jour (keepUpdated).\n\n\n\nExport Zotero\n\n\nEnregistrer le fichier .json dans le dossier /data.\n\n\nDans Zettlr\n\nBibliographie (lier zotero)\nC’est dans les paramètres de Zettlr que l’on va donner l’adresse des fichier csl.json et these.csl qui seront utilisés lors de la rédaction ainsi que par Pandoc Citeproc lors des exports.\n\n\n\nParamètres Citations dans Zettlr",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -437,7 +437,7 @@
     "href": "seances/01-markdown-zettlr.html#ressources",
     "title": "1. Principes et syntaxe Markdown",
     "section": "Ressources",
-    "text": "Ressources\n\nPourquoi écrire en texte brut\n\nTennen & Wythoff, Rédaction durable avec Pandoc et Markdown, The Programming Historian, 2014 (màj 2020).\nÉmilien Ruiz, Apprendre à écrire ?, La boîte à outils des historien·ne·s, avril 2020.\nArthur Perret, Écrire et éditer, mai 2020.\nMarine Parra & Benoît Roux, [Introduction] Markdown, se réapproprier ses outils d’écriture, Carnet Eveille, février 2022.\nArthur Perret, Cours :\n\nFormat texte\nÉcriture scientifique au format texte\n\n\n\n\nComprendre Markdown\n\nMarkdown Guide : le plus complet et synthétique, avec sa cheat sheet, sa syntaxe de base et sa syntaxe étendue.\nSarah Simpkin, Débuter avec Markdown, The Programming Historian, 2015 (màj 2020).\nMarkdown Tutorial : un tutoriel interactif, multilingue, pour pratiquer en direct.\nArthur Perret, Cours :\n\nMarkdown\nPandoc\n\n\n\n\nZettlr\n\nDocumentation en français\nAntoine Fauchié, Fabriques de publication : Zettlr, quaternum.net, août 2020.\nArthur Perret, Recommandation : Zettlr, septembre 2019.\nArthur Perret, Cours Zettlr, décembre 2025.\nHendrik Erz, Zettlr and Academic Markdown (le développeur de Zettlr sur l’écriture académique).\n\n\n\nPour aller plus loin\n\nAutres éditeurs markdown\n\nObsidian.md (non libre mais files over app)\nTypora (avec bdd)\nLogseq (équivalent libre de RoamResearch, outliner)\nFoam (extension pour transformer VScodium en Obsidian/Zettlr)\n\nVoir aussi la page Ressources du site pour les repères théoriques et les autres outils du cycle.",
+    "text": "Ressources\n\nPourquoi écrire en texte brut\n\nTennen & Wythoff, Rédaction durable avec Pandoc et Markdown, The Programming Historian, 2014 (màj 2020).\nÉmilien Ruiz, Apprendre à écrire ?, La boîte à outils des historien·ne·s, avril 2020.\nArthur Perret, Écrire et éditer, mai 2020.\nMarine Parra & Benoît Roux, [Introduction] Markdown, se réapproprier ses outils d’écriture, Carnet Eveille, février 2022.\nArthur Perret, Cours :\n\nFormat texte\nÉcriture scientifique au format texte\n\n\n\n\nComprendre Markdown\n\nMarkdown Guide : le plus complet et synthétique, avec sa cheat sheet, sa syntaxe de base et sa syntaxe étendue.\nSarah Simpkin, Débuter avec Markdown, The Programming Historian, 2015 (màj 2020).\nMarkdown Tutorial : un tutoriel interactif, multilingue, pour pratiquer en direct.\nArthur Perret, Cours :\n\nMarkdown\nPandoc\n\n\n\n\nZettlr\n\nDocumentation en français\nAntoine Fauchié, Fabriques de publication : Zettlr, quaternum.net, août 2020.\nArthur Perret, Recommandation : Zettlr, septembre 2019.\nArthur Perret, Cours Zettlr, décembre 2025.\nHendrik Erz, Zettlr and Academic Markdown (le développeur de Zettlr sur l’écriture académique).\n\n\n\nPour aller plus loin\n\nAutres éditeurs markdown\n\nObsidian.md (non libre mais files over app)\nTypora (avec bdd)\nLogseq (équivalent libre de RoamResearch, outliner)\nFoam (extension pour transformer VScodium en Obsidian/Zettlr)\n\nVoir aussi la page Ressources du site pour les repères théoriques et les autres outils du cycle.\n\n\nSur la prise de notes",
     "crumbs": [
       "Accueil",
       "Les séances",
