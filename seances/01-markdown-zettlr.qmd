@@ -33,7 +33,9 @@ date: 2026-10-12
 - Tennen & Wythoff, [*Rédaction durable avec Pandoc et Markdown*](https://programminghistorian.org/fr/lecons/redaction-durable-avec-pandoc-et-markdown), The Programming Historian, 2014 (màj 2020).
 - Émilien Ruiz, [*Apprendre à écrire ?*](http://www.boiteaoutils.info/2020/04/apprendre-ecrire/), La boîte à outils des historien·ne·s, avril 2020.
 - Arthur Perret, [*Écrire et éditer*](https://www.arthurperret.fr/ecrire-et-editer.html), mai 2020.
-- Antoine Fauchié, [*Fabriques de publication\ : Zettlr*](https://www.quaternum.net/2020/08/28/fabriques-de-publication-zettlr/), quaternum.net, août 2020.
+- Marine Parra & Benoît Roux, [Introduction] [*Markdown, se réapproprier ses outils d’écriture*](https://doi.org/10.58079/omlj), Carnet Eveille, février 2022.
+
+
 
 ### Comprendre Markdown
 
@@ -45,7 +47,8 @@ date: 2026-10-12
 ### Zettlr
 
 - [Documentation en français](https://docs.zettlr.com/fr/)
-- [Chaîne YouTube](https://youtube.com/c/Zettlr)
+
+- Antoine Fauchié, [*Fabriques de publication\ : Zettlr*](https://www.quaternum.net/2020/08/28/fabriques-de-publication-zettlr/), quaternum.net, août 2020.
 - Arthur Perret, [*Recommandation\ : Zettlr*](https://www.arthurperret.fr/recommandation-zettlr.html), septembre 2019.
 - Hendrik Erz, [*Zettlr and Academic Markdown*](https://www.hendrik-erz.de/post/how-i-work-part-v-zettlr-and-academic-markdown) (le développeur de Zettlr sur l'écriture académique).
 

@@ -65,12 +65,14 @@ Une ressource à partager ? Écrivez à [julien.rabaud@univ-pau.fr](mailto:julie
 :::: {.callout-warning collapse="true"}
 ### memes
 
-::: {layout="[[1,1], [1,1]]" style="padding:1em"}
+::: {layout="[[1,1], [1,1], [1]]" style="padding:1em"}
 ![](img/meme_timeword.jpg){group="meme"}
 
-![](img/meme_copypasteword.webp){group="meme"}
+![](img/graphjam-microsoft-word-woes.jpg){group="meme"}
 
 ![](img/meme_imageword.webp){group="meme"}
+
+![](img/meme_copypasteword.webp){group="meme"}
 
 ![](img/meme_buildingword.webp){group="meme"}
 :::
