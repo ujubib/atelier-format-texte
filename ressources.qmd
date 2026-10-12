@@ -15,6 +15,9 @@ Cette page rassemble ce qui peut servir avant, pendant et après les séances. E
 - Le travail de [Julie Blanc](https://julie-blanc.fr/).
 - Les éditions [abrüpt](https://abrupt.cc/).
 - Les réflexions d'Antoine Fauchié sur [les fabriques de publication](https://www.quaternum.net/2020/04/29/les-fabriques-de-publication/).
+- [Le Pressoir](https://ecrinum.gitpages.huma-num.fr/pressoir/) : générateur de sites statiques qui peut être utilisé pour créer des livres augmentés, des supports de cours, des documentations et toutes sortes de publications numériques (Chaire de recherche du Canada sur les écritures numériques).
+- Le [carnet hypothèses](https://ceen.hypotheses.org/) de la Chaire d'excellence en édition numérique (Université de Rouen)
+- Le collectif [Inachevé d'imprimer](https://inacheve-dimprimer.net/)
 
 ## Tutoriels
 
@@ -25,7 +28,7 @@ Cette page rassemble ce qui peut servir avant, pendant et après les séances. E
   - extension **BetterBibtex** pour Zotero : [documentation de BetterBibtex](https://retorque.re/zotero-better-bibtex/)
 - **Pandoc** : [manuel de Pandoc](https://pandoc.org/MANUAL.html)
 - **Quarto** : [guide de Quarto](https://quarto.org/docs/guide/)
-- **Stylo** : *à compléter (documentation de Stylo)*
+- **Stylo** : [documentation de Stylo](https://documentation.huma-num.fr/stylo/)
 - **LaTeX et Typst** : [documentation de Typst](https://typst.app/docs) ; *à compléter (LaTeX)*
 - **HTML et CSS Print** : *à compléter*
 
