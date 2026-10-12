@@ -283,7 +283,11 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#objectifs" id="toc-objectifs" class="nav-link active" data-scroll-target="#objectifs">Objectifs</a></li>
   <li><a href="#à-installer-avant-la-séance" id="toc-à-installer-avant-la-séance" class="nav-link" data-scroll-target="#à-installer-avant-la-séance">À installer avant la séance</a></li>
   <li><a href="#déroulé" id="toc-déroulé" class="nav-link" data-scroll-target="#déroulé">Déroulé</a></li>
-  <li><a href="#ressources" id="toc-ressources" class="nav-link" data-scroll-target="#ressources">Ressources</a></li>
+  <li><a href="#ressources" id="toc-ressources" class="nav-link" data-scroll-target="#ressources">Ressources</a>
+  <ul class="collapse">
+  <li><a href="#zotero" id="toc-zotero" class="nav-link" data-scroll-target="#zotero">Zotero</a></li>
+  <li><a href="#zettlr" id="toc-zettlr" class="nav-link" data-scroll-target="#zettlr">Zettlr</a></li>
+  </ul></li>
   <li><a href="#notes-et-retours-de-la-séance" id="toc-notes-et-retours-de-la-séance" class="nav-link" data-scroll-target="#notes-et-retours-de-la-séance">Notes et retours de la séance</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/ujubib/atelier-format-texte/blob/main/seances/02-zotero.qmd" class="toc-action"><i class="bi bi-github"></i>Voir la source</a></li></ul></div></nav>
@@ -327,8 +331,11 @@ ul.task-list li input[type="checkbox"] {
 <section id="à-installer-avant-la-séance" class="level2">
 <h2 class="anchored" data-anchor-id="à-installer-avant-la-séance">À installer avant la séance</h2>
 <ul>
-<li><a href="https://www.zotero.org">Zotero</a></li>
 <li><a href="https://www.zettlr.com">Zettlr</a></li>
+<li><a href="https://www.zotero.org">Zotero</a>
+<ul>
+<li>l’extension <strong>BetterBibtex</strong> pour Zotero : <a href="https://retorque.re/zotero-better-bibtex/">documentation de BetterBibtex</a></li>
+</ul></li>
 </ul>
 </section>
 <section id="déroulé" class="level2">
@@ -339,13 +346,34 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="ressources" class="level2">
 <h2 class="anchored" data-anchor-id="ressources">Ressources</h2>
-<ul>
-<li><em>À compléter : documentation, exemples, fichiers de démonstration.</em></li>
-</ul>
+<section id="zotero" class="level3">
+<h3 class="anchored" data-anchor-id="zotero">Zotero</h3>
+<p>Installer le plugin <a href="https://retorque.re/zotero-better-bibtex/index.html">Better BibTeX for Zotero</a></p>
+<p>Faire un export de sa collection de thèse ou de l’ensemble de sa bibliothèque au format <em>Better CSL JSON</em> en cochant l’option “garder à jour” (<em>keepUpdated</em>)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="..\img/Zotero-export.png" class="img-fluid figure-img"></p>
+<figcaption>Export <em>Zotero</em></figcaption>
+</figure>
+</div>
+<p>Enregistrer le fichier <code>.json</code> dans le dossier <code>/bibliographie</code>.</p>
+</section>
+<section id="zettlr" class="level3">
+<h3 class="anchored" data-anchor-id="zettlr">Zettlr</h3>
+<section id="bibliographie-lier-zotero" class="level4">
+<h4 class="anchored" data-anchor-id="bibliographie-lier-zotero">Bibliographie (lier zotero)</h4>
+<p>C’est dans les paramètres de <em>Zettlr</em> que l’on va donner l’adresse des fichier <code>csl.json</code> et <code>these.csl</code> qui seront utilisés lors de la rédaction ainsi que par <em>Pandoc Citeproc</em> lors des exports.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="..\img/Zettlr-Citations.png" class="img-fluid figure-img"></p>
+<figcaption>Paramètres <strong>Citations</strong> dans <em>Zettlr</em></figcaption>
+</figure>
+</div>
+</section>
+</section>
 </section>
 <section id="notes-et-retours-de-la-séance" class="level2">
 <h2 class="anchored" data-anchor-id="notes-et-retours-de-la-séance">Notes et retours de la séance</h2>
-<p><em>À compléter après l’atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.</em></p>
 
 
 </section>

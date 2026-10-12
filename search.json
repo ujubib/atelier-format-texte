@@ -172,7 +172,7 @@
     "href": "seances/02-zotero.html#à-installer-avant-la-séance",
     "title": "2. Connecter la biblio",
     "section": "À installer avant la séance",
-    "text": "À installer avant la séance\n\nZotero\nZettlr",
+    "text": "À installer avant la séance\n\nZettlr\nZotero\n\nl’extension BetterBibtex pour Zotero : documentation de BetterBibtex",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -196,7 +196,7 @@
     "href": "seances/02-zotero.html#ressources",
     "title": "2. Connecter la biblio",
     "section": "Ressources",
-    "text": "Ressources\n\nÀ compléter : documentation, exemples, fichiers de démonstration.",
+    "text": "Ressources\n\nZotero\nInstaller le plugin Better BibTeX for Zotero\nFaire un export de sa collection de thèse ou de l’ensemble de sa bibliothèque au format Better CSL JSON en cochant l’option “garder à jour” (keepUpdated)\n\n\n\nExport Zotero\n\n\nEnregistrer le fichier .json dans le dossier /bibliographie.\n\n\nZettlr\n\nBibliographie (lier zotero)\nC’est dans les paramètres de Zettlr que l’on va donner l’adresse des fichier csl.json et these.csl qui seront utilisés lors de la rédaction ainsi que par Pandoc Citeproc lors des exports.\n\n\n\nParamètres Citations dans Zettlr",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -208,7 +208,7 @@
     "href": "seances/02-zotero.html#notes-et-retours-de-la-séance",
     "title": "2. Connecter la biblio",
     "section": "Notes et retours de la séance",
-    "text": "Notes et retours de la séance\nÀ compléter après l’atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.",
+    "text": "Notes et retours de la séance",
     "crumbs": [
       "Accueil",
       "Les séances",
