@@ -12,8 +12,9 @@ date: 2026-10-19
 
 ## À installer avant la séance
 
-- [Zotero](https://www.zotero.org)
 - [Zettlr](https://www.zettlr.com)
+- [Zotero](https://www.zotero.org)
+  - l'extension **BetterBibtex** pour Zotero : [documentation de BetterBibtex](https://retorque.re/zotero-better-bibtex/)
 
 ## Déroulé
 
@@ -21,8 +22,24 @@ date: 2026-10-19
 
 ## Ressources
 
-- *À compléter : documentation, exemples, fichiers de démonstration.*
+### Zotero
+
+Installer le plugin [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/index.html)
+
+Faire un export de sa collection de thèse ou de l'ensemble de sa bibliothèque au format _Better CSL JSON_ en cochant l'option "garder à jour" (_keepUpdated_)
+
+![Export _Zotero_](/img/Zotero-export.png) 
+
+Enregistrer le fichier `.json` dans le dossier `/bibliographie`.
+
+### Zettlr
+
+#### Bibliographie (lier zotero)
+
+C'est dans les paramètres de _Zettlr_ que l'on va donner l'adresse des fichier `csl.json` et `these.csl` qui seront utilisés lors de la rédaction ainsi que par _Pandoc Citeproc_ lors des exports. 
+
+![Paramètres **Citations** dans _Zettlr_](/img/Zettlr-Citations.png)
 
 ## Notes et retours de la séance
 
-*À compléter après l'atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.*
+

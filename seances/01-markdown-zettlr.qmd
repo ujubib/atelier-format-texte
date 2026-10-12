@@ -15,7 +15,7 @@ date: 2026-10-12
 ## À installer 
 
 ::: {.column-margin}
-![](img/logo-zettlr.png "Logo Zettlr"){width="70%"}
+![](/img/Zettlr_logo.png "Logo Zettlr"){width="70%"}
 :::
 
 - [Zettlr](https://www.zettlr.com) (libre) ou [Obsidian.md](https://obsidian.md) (non-libre) (ou un autre éditeur Markdown de votre choix)
