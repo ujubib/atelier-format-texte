@@ -22,6 +22,7 @@ Cette page rassemble ce qui peut servir avant, pendant et après les séances. E
 
 - **Markdown et Zettlr** : [documentation de Zettlr](https://docs.zettlr.com)
 - **Zotero** : [documentation de Zotero](https://www.zotero.org/support/)
+  - extension **BetterBibtex** pour Zotero : [documentation de BetterBibtex](https://retorque.re/zotero-better-bibtex/)
 - **Pandoc** : [manuel de Pandoc](https://pandoc.org/MANUAL.html)
 - **Quarto** : [guide de Quarto](https://quarto.org/docs/guide/)
 - **Stylo** : *à compléter (documentation de Stylo)*
