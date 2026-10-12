@@ -232,7 +232,7 @@
     "href": "ressources.html#inspirations",
     "title": "Ressources",
     "section": "Inspirations",
-    "text": "Inspirations\n\nLe Guide pratique d’artisanat numérique à l’Université de Christophe Masutti.\nLes premières saisons de Déb/u/o/gue tes humanités.\nLes cours d’Arthur Perret.\nLe manuel L’écriture académique au format texte avec Markdown et Pandoc de Bernard Pochet.\nLe travail de Julie Blanc.\nLes éditions abrüpt.\nLes réflexions d’Antoine Fauchié sur les fabriques de publication.",
+    "text": "Inspirations\n\nLe Guide pratique d’artisanat numérique à l’Université de Christophe Masutti.\nLes premières saisons de Déb/u/o/gue tes humanités.\nLes cours d’Arthur Perret.\nLe manuel L’écriture académique au format texte avec Markdown et Pandoc de Bernard Pochet.\nLe travail de Julie Blanc.\nLes éditions abrüpt.\nLes réflexions d’Antoine Fauchié sur les fabriques de publication.\nLe Pressoir : générateur de sites statiques qui peut être utilisé pour créer des livres augmentés, des supports de cours, des documentations et toutes sortes de publications numériques (Chaire de recherche du Canada sur les écritures numériques).\nLe carnet hypothèses de la Chaire d’excellence en édition numérique (Université de Rouen)\nLe collectif Inachevé d’imprimer",
     "crumbs": [
       "Accueil",
       "Annexes",
@@ -244,7 +244,7 @@
     "href": "ressources.html#tutoriels",
     "title": "Ressources",
     "section": "Tutoriels",
-    "text": "Tutoriels\n\nPar outil\n\nMarkdown et Zettlr : documentation de Zettlr\nZotero : documentation de Zotero\n\nextension BetterBibtex pour Zotero : documentation de BetterBibtex\n\nPandoc : manuel de Pandoc\nQuarto : guide de Quarto\nStylo : à compléter (documentation de Stylo)\nLaTeX et Typst : documentation de Typst ; à compléter (LaTeX)\nHTML et CSS Print : à compléter\n\n\n\nFiches et pas-à-pas\n\nÀ compléter : fiches rédigées pour les séances (installation, premiers pas, dépannage).",
+    "text": "Tutoriels\n\nPar outil\n\nMarkdown et Zettlr : documentation de Zettlr\nZotero : documentation de Zotero\n\nextension BetterBibtex pour Zotero : documentation de BetterBibtex\n\nPandoc : manuel de Pandoc\nQuarto : guide de Quarto\nStylo : documentation de Stylo\nLaTeX et Typst : documentation de Typst ; à compléter (LaTeX)\nHTML et CSS Print : à compléter\n\n\n\nFiches et pas-à-pas\n\nÀ compléter : fiches rédigées pour les séances (installation, premiers pas, dépannage).",
     "crumbs": [
       "Accueil",
       "Annexes",
@@ -346,7 +346,7 @@
     "href": "index.html#un-club-des-utilisateurs-du-format-texte",
     "title": "Le format texte : libérez vos documents !",
     "section": "Un club des utilisateurs du format texte",
-    "text": "Un club des utilisateurs du format texte\nL’idée est aussi de faire naître, au fil des séances, un club des utilisatrices et utilisateurs du format texte à l’université. Les échanges de pratiques sont encouragés : voir la page Le club.\n\n\n\n\n\n\nAstuceInspirations\n\n\n\n\n\n\nLe Guide pratique d’artisanat numérique à l’Université de Christophe Masutti.\nLes premières saisons de Déb/u/o/gue tes humanités.\nLes cours d’Arthur Perret.\nLe manuel L’écriture académique au format texte avec Markdown et Pandoc de Bernard Pochet\nLe travail de Julie Blanc.\nLes éditions abrüpt.\nLes réflexions d’Antoine Fauchié sur les fabriques de publications.",
+    "text": "Un club des utilisateurs du format texte\nL’idée est aussi de faire naître, au fil des séances, un club des utilisatrices et utilisateurs du format texte à l’université. Les échanges de pratiques sont encouragés : voir la page Le club.\n\n\n\n\n\n\nAstuceInspirations\n\n\n\n\n\n\nLe Guide pratique d’artisanat numérique à l’Université de Christophe Masutti.\nLes premières saisons de Déb/u/o/gue tes humanités.\nLes cours d’Arthur Perret.\nLe manuel L’écriture académique au format texte avec Markdown et Pandoc de Bernard Pochet\nLe travail de Julie Blanc.\nLes éditions abrüpt.\nLes réflexions d’Antoine Fauchié sur les fabriques de publications.\nLe Pressoir : générateur de sites statiques qui peut être utilisé pour créer des livres augmentés, des supports de cours, des documentations et toutes sortes de publications numériques (Chaire de recherche du Canada sur les écritures numériques).\nLe carnet hypothèses de la Chaire d’excellence en édition numérique (Université de Rouen).\nLe collectif Inachevé d’imprimer.",
     "crumbs": [
       "Accueil"
     ]
