@@ -12,10 +12,6 @@ Site Quarto des ateliers d'écriture académique au format texte (BU de Pau, UPP
 - `_brand.yml` : charte de départ (couleurs et police de l'affiche), à affiner.
 - `scripts/affiche-sans-bootstrap.py` : après le rendu, retire Bootstrap de la seule page affiche, pour que son apparence et son impression ne changent pas.
 
-## Avant la première publication
-
-Dans `_quarto.yml`, remplacer `TON-PSEUDO` par l'identifiant GitHub (trois occurrences : `site-url`, `repo-url`, lien de la barre de menu).
-
 ## Commandes
 
 ```bash
