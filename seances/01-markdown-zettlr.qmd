@@ -14,6 +14,9 @@ date: 2026-10-12
 
 ## À installer 
 
+::: {.column-margin}
+![](img/logo-zettlr.png "Logo Zettlr"){width="70%"}
+
 - [Zettlr](https://www.zettlr.com) (libre) ou [Obsidian.md](https://obsidian.md) (non-libre) (ou un autre éditeur Markdown de votre choix)
 
 ## Déroulé
@@ -52,7 +55,6 @@ date: 2026-10-12
 ### Zettlr
 
 - [Documentation en français](https://docs.zettlr.com/fr/)
-
 - Antoine Fauchié, [*Fabriques de publication\ : Zettlr*](https://www.quaternum.net/2020/08/28/fabriques-de-publication-zettlr/), quaternum.net, août 2020.
 - Arthur Perret, [*Recommandation\ : Zettlr*](https://www.arthurperret.fr/recommandation-zettlr.html), septembre 2019.
 - Arthur Perret, [*Cours Zettlr*](https://www.arthurperret.fr/cours/zettlr.html), décembre 2025.
