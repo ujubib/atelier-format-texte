@@ -72,5 +72,9 @@ date: 2026-10-12
 
 Voir aussi la page [Ressources](../ressources.qmd) du site pour les repères théoriques et les autres outils du cycle.
 
+#### Sur la prise de notes 
+
+
+
 ## Notes et retours de la séance
 

@@ -14,7 +14,7 @@ date: 2026-10-19
 
 - [Zettlr](https://www.zettlr.com)
 - [Zotero](https://www.zotero.org)
-  - l'extension **BetterBibtex** pour Zotero : [documentation de BetterBibtex](https://retorque.re/zotero-better-bibtex/)
+  - l'extension [BetterBibtex](https://retorque.re/zotero-better-bibtex/) pour Zotero.
 
 ## Déroulé
 
@@ -22,17 +22,17 @@ date: 2026-10-19
 
 ## Ressources
 
-### Zotero
+### Dans *Zotero*
 
 Installer le plugin [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/index.html)
 
-Faire un export de sa collection de thèse ou de l'ensemble de sa bibliothèque au format _Better CSL JSON_ en cochant l'option "garder à jour" (_keepUpdated_)
+Faire un export de sa collection de projet ou de l'ensemble de sa bibliothèque au format _Better CSL JSON_ en cochant l'option `garder à jour` (_keepUpdated_).
 
 ![Export _Zotero_](/img/Zotero-export.png) 
 
-Enregistrer le fichier `.json` dans le dossier `/bibliographie`.
+Enregistrer le fichier `.json` dans le dossier `/data`.
 
-### Zettlr
+### Dans *Zettlr*
 
 #### Bibliographie (lier zotero)
 
