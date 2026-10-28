@@ -156,18 +156,6 @@
     ]
   },
   {
-    "objectID": "seances/02-zotero.html#objectifs",
-    "href": "seances/02-zotero.html#objectifs",
-    "title": "2. Connecter la biblio",
-    "section": "Objectifs",
-    "text": "Objectifs\n\nÀ compléter.",
-    "crumbs": [
-      "Accueil",
-      "Les séances",
-      "2. Connecter la biblio"
-    ]
-  },
-  {
     "objectID": "seances/02-zotero.html#à-installer-avant-la-séance",
     "href": "seances/02-zotero.html#à-installer-avant-la-séance",
     "title": "2. Connecter la biblio",
@@ -180,23 +168,11 @@
     ]
   },
   {
-    "objectID": "seances/02-zotero.html#déroulé",
-    "href": "seances/02-zotero.html#déroulé",
-    "title": "2. Connecter la biblio",
-    "section": "Déroulé",
-    "text": "Déroulé\n\nÀ compléter.",
-    "crumbs": [
-      "Accueil",
-      "Les séances",
-      "2. Connecter la biblio"
-    ]
-  },
-  {
     "objectID": "seances/02-zotero.html#ressources",
     "href": "seances/02-zotero.html#ressources",
     "title": "2. Connecter la biblio",
     "section": "Ressources",
-    "text": "Ressources\n\nDans Zotero\nInstaller le plugin Better BibTeX for Zotero\nFaire un export de sa collection de projet ou de l’ensemble de sa bibliothèque au format Better CSL JSON en cochant l’option garder à jour (keepUpdated).\n\n\n\nExport Zotero\n\n\nEnregistrer le fichier .json dans le dossier /data.\n\n\nDans Zettlr\n\nBibliographie (lier zotero)\nC’est dans les paramètres de Zettlr que l’on va donner l’adresse des fichier csl.json et these.csl qui seront utilisés lors de la rédaction ainsi que par Pandoc Citeproc lors des exports.\n\n\n\nParamètres Citations dans Zettlr",
+    "text": "Ressources\n\nDans Zotero\nInstaller le plugin Better BibTeX for Zotero\nFaire un export de sa collection de projet ou de l’ensemble de sa bibliothèque au format Better CSL JSON en cochant l’option garder à jour (keepUpdated).\n\n\n\nExport Zotero\n\n\nEnregistrer le fichier .json dans le dossier /data.\n\n\nDans Zettlr\n\nBibliographie (lier zotero)\nC’est dans les paramètres de Zettlr que l’on va donner l’adresse des fichier csl.json et these.csl qui seront utilisés lors de la rédaction ainsi que par Pandoc Citeproc lors des exports.\n\n\n\nParamètres Citations dans Zettlr\n\n\n\n\n\nDans Obsidian\nChoisir un plugin :\n\nPlugin Zotero Integration\n\nhttps://community.obsidian.md/plugins/obsidian-zotero-desktop-connector\n\n\n\nPlugin ZotFlow\n\nhttps://community.obsidian.md/plugins/zotflow\nDocumentation : https://zotflow.peterduan.dev/",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -208,7 +184,7 @@
     "href": "seances/02-zotero.html#notes-et-retours-de-la-séance",
     "title": "2. Connecter la biblio",
     "section": "Notes et retours de la séance",
-    "text": "Notes et retours de la séance",
+    "text": "Notes et retours de la séance\n\nCompléments sur Zotero\n\nDocumentation Zotero fr : traduction bénévole de la documentation officielle par des membres du blog Zotero francophone.\nLe blog Zotero francophone animé par des profession.elle.s de l’information scientifique et technique.\nle magnifique billet de Johanna Daniels (2022) qui revient sur 10 ans d’utilisation, du master au post-doc : Ode à Zotero, une décennie d’usage de Zotero",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -521,7 +497,7 @@
     "href": "seances/03-pandoc-quarto.html#notes-et-retours-de-la-séance",
     "title": "3. Couteau suisse et Tout-en-Un",
     "section": "Notes et retours de la séance",
-    "text": "Notes et retours de la séance\nÀ compléter après l’atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.",
+    "text": "Notes et retours de la séance",
     "crumbs": [
       "Accueil",
       "Les séances",
