@@ -449,7 +449,7 @@
     "href": "seances/03-pandoc-quarto.html#objectifs",
     "title": "3. Couteau suisse et Tout-en-Un",
     "section": "Objectifs",
-    "text": "Objectifs\n\nÀ compléter.",
+    "text": "Objectifs",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -485,7 +485,7 @@
     "href": "seances/03-pandoc-quarto.html#ressources",
     "title": "3. Couteau suisse et Tout-en-Un",
     "section": "Ressources",
-    "text": "Ressources\n\nÀ compléter : documentation, exemples, fichiers de démonstration.",
+    "text": "Ressources\n\nPandoc\n\nLe cours Pandoc d’Arthur Perret\n\n\n\nQuarto\n\nDiaporama : Créer un site statique avec Quarto - Atelier Datalab Rennes (ARDoISE) - juin 2026\nMarc Thévenin (INED) - Formation Quarto - décembre 2025\nTutoMATE #77 - Quarto avec Rstudio - Bénédicte Garnier & Solenne Roux - janvier 2026\n\n\nexemples de sites Quarto\n\nLe(s) site(s) de Pascal Martinolli (Bibliothécaire à l’université de Montréal)\nLe site de Mickaël Canouil (Biostatisticien et développeur d’extensions Quarto)\nMes sites sur quarto.pub : https://uju.quarto.pub/\nLino Galiana - Python pour la data science (Cours de deuxième année du cursus d’ingénieur de l’ENSAE et de l’ENSAI (Master 1))",
     "crumbs": [
       "Accueil",
       "Les séances",
