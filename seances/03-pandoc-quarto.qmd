@@ -4,11 +4,13 @@ subtitle: "Avec Pandoc et Quarto"
 date: 2026-11-02
 ---
 
+lNCpF
+
 *18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription*
 
 ## Objectifs
 
-- *À compléter.*
+
 
 ## À installer avant la séance
 
@@ -21,8 +23,24 @@ date: 2026-11-02
 
 ## Ressources
 
-- *À compléter : documentation, exemples, fichiers de démonstration.*
+### Pandoc
+
+- Le [cours Pandoc](https://www.arthurperret.fr/cours/pandoc.html) d'Arthur Perret 
+- Programming Historian - [Rédaction durable avec Pandoc et Markdown](https://programminghistorian.org/fr/lecons/redaction-durable-avec-pandoc-et-markdown) - Dennis Tenen et Grant Wythoff
+
+### Quarto
+
+- Diaporama : [Créer un site statique avec Quarto](https://ardoise.gitpages.huma-num.fr/atelier-site-statique/presentation/presentation.html#/title-slide) - Atelier Datalab Rennes (ARDoISE) - juin 2026
+- Marc Thévenin (INED) - [Formation Quarto](https://mthevenin.github.io/support_quarto/) - décembre 2025
+- TutoMATE #77 - [Quarto avec Rstudio](https://mate-shs.cnrs.fr/actions/tutomate/tuto77_quarto_garnier_roux/) - Bénédicte Garnier & Solenne Roux - janvier 2026
+
+#### exemples de sites Quarto
+
+- Le(s) [site(s) de Pascal Martinolli](https://pmartinolli.github.io/) (Bibliothécaire à l'université de Montréal)
+- Le [site de Mickaël Canouil](https://mickael.canouil.fr/) (Biostatisticien et développeur d'extensions Quarto)
+- Mes sites sur `quarto.pub` :  <https://uju.quarto.pub/>
+- Lino Galiana - [Python pour la *data science*](https://pythonds.linogaliana.fr/) (Cours de deuxième année du cursus d’ingénieur de l’ENSAE et de l’ENSAI (Master 1))
 
 ## Notes et retours de la séance
 
-*À compléter après l'atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.*
+

@@ -6,9 +6,7 @@ date: 2026-10-19
 
 *18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription*
 
-## Objectifs
 
-- *À compléter.*
 
 ## À installer avant la séance
 
@@ -16,9 +14,6 @@ date: 2026-10-19
 - [Zotero](https://www.zotero.org)
   - l'extension [BetterBibtex](https://retorque.re/zotero-better-bibtex/) pour Zotero.
 
-## Déroulé
-
-1. *À compléter.*
 
 ## Ressources
 
@@ -40,6 +35,26 @@ C'est dans les paramètres de _Zettlr_ que l'on va donner l'adresse des fichier 
 
 ![Paramètres **Citations** dans _Zettlr_](/img/Zettlr-Citations.png)
 
+### Dans *Obsidian*
+
+Choisir un plugin :
+
+#### Plugin *Zotero Integration*
+
+- https://community.obsidian.md/plugins/obsidian-zotero-desktop-connector
+
+#### Plugin *ZotFlow*
+
+- https://community.obsidian.md/plugins/zotflow
+- Documentation : https://zotflow.peterduan.dev/
+
+
 ## Notes et retours de la séance
 
+### Compléments sur Zotero
 
+- [Documentation Zotero fr](https://docs.zotero-fr.org/) : traduction bénévole de la [documentation officielle](https://www.zotero.org/support/) par des membres du blog Zotero francophone.
+
+- [Le blog Zotero francophone](https://zotero.hypotheses.org/) animé par des profession.elle.s de l'information scientifique et technique.
+
+- le magnifique billet de Johanna Daniels (2022) qui revient sur 10 ans d'utilisation, du master au post-doc : [Ode à Zotero, une décennie d’usage de Zotero](https://ig.hypotheses.org/2789)
