@@ -88,7 +88,7 @@
     "href": "seances/04-stylo.html#objectifs",
     "title": "4. Édition sémantique en SHS",
     "section": "Objectifs",
-    "text": "Objectifs\n\nÀ compléter.",
+    "text": "Objectifs\n\nécrire un article avec stylo\nLancer une session collaborative\nexporter (Word, pdf, html, TEI)",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -96,23 +96,11 @@
     ]
   },
   {
-    "objectID": "seances/04-stylo.html#à-installer-avant-la-séance",
-    "href": "seances/04-stylo.html#à-installer-avant-la-séance",
+    "objectID": "seances/04-stylo.html#avant-la-séance",
+    "href": "seances/04-stylo.html#avant-la-séance",
     "title": "4. Édition sémantique en SHS",
-    "section": "À installer avant la séance",
-    "text": "À installer avant la séance\n\nStylo",
-    "crumbs": [
-      "Accueil",
-      "Les séances",
-      "4. Édition sémantique en SHS"
-    ]
-  },
-  {
-    "objectID": "seances/04-stylo.html#déroulé",
-    "href": "seances/04-stylo.html#déroulé",
-    "title": "4. Édition sémantique en SHS",
-    "section": "Déroulé",
-    "text": "Déroulé\n\nÀ compléter.",
+    "section": "Avant la séance",
+    "text": "Avant la séance\n\nSe créer un (HumanID)(compte HumaNum)",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -124,7 +112,7 @@
     "href": "seances/04-stylo.html#ressources",
     "title": "4. Édition sémantique en SHS",
     "section": "Ressources",
-    "text": "Ressources\n\nÀ compléter : documentation, exemples, fichiers de démonstration.",
+    "text": "Ressources\n\nStylo\nDocumentation officielle : https://stylo-doc.ecrituresnumeriques.ca/fr/\nRoch Delannay, Antoine Fauchié, Marcello Vitali-Rosati. Stylo en 2023 : de nouvelles fonctionnalités pour l’écriture et l’édition scientifique. Humanistica 2023, Association francophone des humanités numériques, Jun 2023. ⟨hal-04126432⟩",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -136,7 +124,7 @@
     "href": "seances/04-stylo.html#notes-et-retours-de-la-séance",
     "title": "4. Édition sémantique en SHS",
     "section": "Notes et retours de la séance",
-    "text": "Notes et retours de la séance\nÀ compléter après l’atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.",
+    "text": "Notes et retours de la séance",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -437,7 +425,7 @@
     "href": "seances/03-pandoc-quarto.html",
     "title": "3. Couteau suisse et Tout-en-Un",
     "section": "",
-    "text": "18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription",
+    "text": "lNCpF\n18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -485,7 +473,7 @@
     "href": "seances/03-pandoc-quarto.html#ressources",
     "title": "3. Couteau suisse et Tout-en-Un",
     "section": "Ressources",
-    "text": "Ressources\n\nPandoc\n\nLe cours Pandoc d’Arthur Perret\n\n\n\nQuarto\n\nDiaporama : Créer un site statique avec Quarto - Atelier Datalab Rennes (ARDoISE) - juin 2026\nMarc Thévenin (INED) - Formation Quarto - décembre 2025\nTutoMATE #77 - Quarto avec Rstudio - Bénédicte Garnier & Solenne Roux - janvier 2026\n\n\nexemples de sites Quarto\n\nLe(s) site(s) de Pascal Martinolli (Bibliothécaire à l’université de Montréal)\nLe site de Mickaël Canouil (Biostatisticien et développeur d’extensions Quarto)\nMes sites sur quarto.pub : https://uju.quarto.pub/\nLino Galiana - Python pour la data science (Cours de deuxième année du cursus d’ingénieur de l’ENSAE et de l’ENSAI (Master 1))",
+    "text": "Ressources\n\nPandoc\n\nLe cours Pandoc d’Arthur Perret\nProgramming Historian - Rédaction durable avec Pandoc et Markdown - Dennis Tenen et Grant Wythoff\n\n\n\nQuarto\n\nDiaporama : Créer un site statique avec Quarto - Atelier Datalab Rennes (ARDoISE) - juin 2026\nMarc Thévenin (INED) - Formation Quarto - décembre 2025\nTutoMATE #77 - Quarto avec Rstudio - Bénédicte Garnier & Solenne Roux - janvier 2026\n\n\nexemples de sites Quarto\n\nLe(s) site(s) de Pascal Martinolli (Bibliothécaire à l’université de Montréal)\nLe site de Mickaël Canouil (Biostatisticien et développeur d’extensions Quarto)\nMes sites sur quarto.pub : https://uju.quarto.pub/\nLino Galiana - Python pour la data science (Cours de deuxième année du cursus d’ingénieur de l’ENSAE et de l’ENSAI (Master 1))",
     "crumbs": [
       "Accueil",
       "Les séances",
