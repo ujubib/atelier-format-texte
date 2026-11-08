@@ -8,20 +8,21 @@ date: 2026-11-09
 
 ## Objectifs
 
-- *À compléter.*
+- écrire un article avec stylo
+- Lancer une session collaborative
+- exporter (Word, pdf, html, TEI)
 
-## À installer avant la séance
+## Avant la séance
 
-- [Stylo](https://stylo.huma-num.fr)
-
-## Déroulé
-
-1. *À compléter.*
+- Se créer un ([HumanID](https://humanid.huma-num.fr/register?skin=humanid&lmAuth=1HumanID))(compte HumaNum)
 
 ## Ressources
 
-- *À compléter : documentation, exemples, fichiers de démonstration.*
+- [Stylo](https://stylo.huma-num.fr)
+
+- Documentation officielle : <https://stylo-doc.ecrituresnumeriques.ca/fr/>
+
+- Roch Delannay, Antoine Fauchié, Marcello Vitali-Rosati. *Stylo en 2023 : de nouvelles fonctionnalités pour l'écriture et l'édition scientifique*. Humanistica 2023, Association francophone des humanités numériques, Jun 2023. ⟨[hal-04126432](https://hal.science/hal-04126432)⟩
 
 ## Notes et retours de la séance
 
-*À compléter après l'atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.*
