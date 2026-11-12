@@ -1,6 +1,6 @@
 ---
 title: "5. Moteurs typographiques"
-subtitle: "Avec LaTeX et Typst"
+subtitle: "Avec $\LaTeX$ et Typst"
 date: 2026-11-16
 ---
 
@@ -8,20 +8,40 @@ date: 2026-11-16
 
 ## Objectifs
 
-- *À compléter.*
+- Comprendre
 
 ## À installer avant la séance
 
-- [LaTeX](https://www.latex-project.org)
+- [$\LaTeX$](https://www.latex-project.org)
 - [Typst](https://typst.app)
 
 ## Déroulé
 
-1. *À compléter.*
+1. Présentation de $\LaTeX$ avec Overleaf
+2. les templates Pandoc
+3. Typst avec Quarto
 
 ## Ressources
 
-- *À compléter : documentation, exemples, fichiers de démonstration.*
+### $\LaTeX$
+
+- Les [outils](https://www.face-ecran.fr/outils) de Daniel Bourrion, Conservateur des bibliothèques et écrivain (Prix Louis Barthou — Académie Française 2026 pour *Le pays dont tu as marché la terre* aux Éditions Héloïse d'Ormesson)
+
+- [Overleaf](https://www.overleaf.com/) - édition en ligne et collaborative de document LaTeX
+
+::: {.column-margin}
+![](/img/overleaf-logo-primary.jpg "Logo overleaf"){width="70%"}
+:::
+
+- [PLMlatex](https://plmlatex.math.cnrs.fr), Une instance d'*Overleaf* pour tout l'ESR français, chez *Mathrice* (CNRS)
+
+- ἔκδοσις \[[ekdosis](https://www.ekdosis.org/fr/)\]\ : package LaTeX pour les éditions critiques multilingues (avec export `XML-TEI`)
+
+### Typst
+
+- Guide *Quarto* : [PDF with Typst](https://quarto.org/docs/output-formats/typst.html)
+
+
 
 ## Notes et retours de la séance
 
