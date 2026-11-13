@@ -509,7 +509,7 @@
     "href": "seances/05-latex-typst.html#objectifs",
     "title": "5. Moteurs typographiques",
     "section": "Objectifs",
-    "text": "Objectifs\n\nÀ compléter.",
+    "text": "Objectifs\n\nComprendre",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -521,7 +521,7 @@
     "href": "seances/05-latex-typst.html#à-installer-avant-la-séance",
     "title": "5. Moteurs typographiques",
     "section": "À installer avant la séance",
-    "text": "À installer avant la séance\n\nLaTeX\nTypst",
+    "text": "À installer avant la séance\n\n\\(\\LaTeX\\)\nTypst",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -533,7 +533,7 @@
     "href": "seances/05-latex-typst.html#déroulé",
     "title": "5. Moteurs typographiques",
     "section": "Déroulé",
-    "text": "Déroulé\n\nÀ compléter.",
+    "text": "Déroulé\n\nPrésentation de \\(\\LaTeX\\) avec Overleaf\nles templates Pandoc\nTypst avec Quarto",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -545,7 +545,7 @@
     "href": "seances/05-latex-typst.html#ressources",
     "title": "5. Moteurs typographiques",
     "section": "Ressources",
-    "text": "Ressources\n\nÀ compléter : documentation, exemples, fichiers de démonstration.",
+    "text": "Ressources\n\n\\(\\LaTeX\\)\n\nLes outils de Daniel Bourrion, Conservateur des bibliothèques et écrivain (Prix Louis Barthou — Académie Française 2026 pour Le pays dont tu as marché la terre aux Éditions Héloïse d’Ormesson)\nOverleaf - édition en ligne et collaborative de document LaTeX\n\n\n\n\n\nPLMlatex, Une instance d’Overleaf pour tout l’ESR français, chez Mathrice (CNRS)\nἔκδοσις [ekdosis] : package LaTeX pour les éditions critiques multilingues (avec export XML-TEI)\n\n\n\nTypst\n\nGuide Quarto : PDF with Typst",
     "crumbs": [
       "Accueil",
       "Les séances",
