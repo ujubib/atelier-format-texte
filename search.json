@@ -509,7 +509,7 @@
     "href": "seances/05-latex-typst.html#objectifs",
     "title": "5. Moteurs typographiques",
     "section": "Objectifs",
-    "text": "Objectifs\n\nComprendre",
+    "text": "Objectifs\n\nComprendre les avantages du balisage sémantique : pdf et papier.",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -545,7 +545,7 @@
     "href": "seances/05-latex-typst.html#ressources",
     "title": "5. Moteurs typographiques",
     "section": "Ressources",
-    "text": "Ressources\n\n\\(\\LaTeX\\)\n\nLes outils de Daniel Bourrion, Conservateur des bibliothèques et écrivain (Prix Louis Barthou — Académie Française 2026 pour Le pays dont tu as marché la terre aux Éditions Héloïse d’Ormesson)\nOverleaf - édition en ligne et collaborative de document LaTeX\n\n\n\n\n\nPLMlatex, Une instance d’Overleaf pour tout l’ESR français, chez Mathrice (CNRS)\nἔκδοσις [ekdosis] : package LaTeX pour les éditions critiques multilingues (avec export XML-TEI)\n\n\n\nTypst\n\nGuide Quarto : PDF with Typst",
+    "text": "Ressources\n\n\\(\\LaTeX\\)\n\nLes outils de Daniel Bourrion, Conservateur des bibliothèques et écrivain (Prix Louis Barthou — Académie Française 2026 pour Le pays dont tu as marché la terre aux Éditions Héloïse d’Ormesson)\nOverleaf - édition en ligne et collaborative de document LaTeX\n\n\n\n\n\nPLMlatex, une instance d’Overleaf pour tout l’ESR français, chez Mathrice (CNRS)\nἔκδοσις [ekdosis] : package \\(\\LaTeX\\) pour les éditions critiques multilingues (avec export XML-TEI)\n\n\n\nTypst\n\nGuide Quarto : PDF with Typst",
     "crumbs": [
       "Accueil",
       "Les séances",
