@@ -2,6 +2,18 @@
 title: "Ressources"
 subtitle: "Tutoriels, exemples et références pour écrire au format texte"
 lightbox: true
+format:
+  html: default
+  typst:
+    brand: false
+    papersize: a4
+    date-format: "dddd D MMMM YYYY"
+    toc: true
+    logo:
+      width: 1.5cm          # Réduit la taille de l'hexagone pour éviter le chevauchement
+      location: left-top   # Le place en haut à droite (ou left-top selon votre préférence)
+      padding-top: 0.8cm    # L'écarte du bord supérieur de la feuille
+      padding-left: 1.5cm
 ---
 
 Cette page rassemble ce qui peut servir avant, pendant et après les séances. Elle s'enrichit au fil des ateliers et des échanges du [club](club.qmd) : n'hésitez pas à proposer des ajouts.
@@ -63,22 +75,3 @@ Des travaux de recherche qui pensent les formats, l'écriture et les chaînes de
 ## Proposer une ressource
 
 Une ressource à partager ? Écrivez à [julien.rabaud@univ-pau.fr](mailto:julien.rabaud@univ-pau.fr) ou ouvrez une proposition sur le dépôt.
-
-## Humour
-
-:::: {.callout-warning collapse="true"}
-### memes
-
-::: {layout="[[1,1], [1,1], [1]]" style="padding:1em"}
-![](img/meme_timeword.jpg){group="meme"}
-
-![](img/graphjam-microsoft-word-woes.jpg){group="meme"}
-
-![](img/meme_imageword.webp){group="meme"}
-
-![](img/meme_copypasteword.webp){group="meme"}
-
-![](img/meme_buildingword.webp){group="meme"}
-:::
-
-::::

@@ -2,6 +2,18 @@
 title: "5. Moteurs typographiques"
 subtitle: "Avec LaTeX et Typst"
 date: 2026-11-16
+format:
+  html: default
+  typst:
+    brand: false
+    papersize: a4
+    date-format: "dddd D MMMM YYYY"
+    toc: true
+    logo:
+      width: 1.5cm          # Réduit la taille de l'hexagone pour éviter le chevauchement
+      location: left-top   # Le place en haut à droite (ou left-top selon votre préférence)
+      padding-top: 0.8cm    # L'écarte du bord supérieur de la feuille
+      padding-left: 1.5cm
 ---
 
 *18h00–19h45 · La BUlle (BU), campus de Pau (UPPA) · entrée libre, sans inscription*
