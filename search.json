@@ -12,47 +12,11 @@
     ]
   },
   {
-    "objectID": "seances/06-html-css-print.html#objectifs",
-    "href": "seances/06-html-css-print.html#objectifs",
-    "title": "6. Publications multi-formats",
-    "section": "Objectifs",
-    "text": "Objectifs\n\nÀ compléter.",
-    "crumbs": [
-      "Accueil",
-      "Les séances",
-      "6. Publications multi-formats"
-    ]
-  },
-  {
-    "objectID": "seances/06-html-css-print.html#à-installer-avant-la-séance",
-    "href": "seances/06-html-css-print.html#à-installer-avant-la-séance",
-    "title": "6. Publications multi-formats",
-    "section": "À installer avant la séance",
-    "text": "À installer avant la séance\n\nUn navigateur web récent (Firefox ou Chrome)",
-    "crumbs": [
-      "Accueil",
-      "Les séances",
-      "6. Publications multi-formats"
-    ]
-  },
-  {
-    "objectID": "seances/06-html-css-print.html#déroulé",
-    "href": "seances/06-html-css-print.html#déroulé",
-    "title": "6. Publications multi-formats",
-    "section": "Déroulé",
-    "text": "Déroulé\n\nÀ compléter.",
-    "crumbs": [
-      "Accueil",
-      "Les séances",
-      "6. Publications multi-formats"
-    ]
-  },
-  {
     "objectID": "seances/06-html-css-print.html#ressources",
     "href": "seances/06-html-css-print.html#ressources",
     "title": "6. Publications multi-formats",
     "section": "Ressources",
-    "text": "Ressources\n\nÀ compléter : documentation, exemples, fichiers de démonstration.",
+    "text": "Ressources\n\nPaged.js\nLa section CTRL + Alt + print de la section Resssources du site Radical web design de Julien Bidoret.\n\n\nJulie Blanc\n\nChanger d’outil : panorama du web-to-print, avec Lucile Haute, captation de la conférence donnée à la biennale Exemplaires — Formes et pratiques de l’édition accueillie et organisée par l’Ecole Supérieure d’Art de Lorraine, site de Metz, du 26 au 28 mars 2026.\nComposer avec CSS Print, slides de la conférence au Printemps de la typographie, Institut National du Patrimoine, Paris, 21 mars 2024.\n\n\n\nArthur Perret\n\nBillet Le « bon outil » – à propos de LaTeX et Paged.js, 24 mars 2023.",
     "crumbs": [
       "Accueil",
       "Les séances",
@@ -64,7 +28,7 @@
     "href": "seances/06-html-css-print.html#notes-et-retours-de-la-séance",
     "title": "6. Publications multi-formats",
     "section": "Notes et retours de la séance",
-    "text": "Notes et retours de la séance\nÀ compléter après l’atelier : ce qui a été montré, questions soulevées, pratiques partagées par les participants.",
+    "text": "Notes et retours de la séance",
     "crumbs": [
       "Accueil",
       "Les séances",
